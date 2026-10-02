@@ -301,7 +301,11 @@ async function runView(id) {
     return;
   }
   view.innerHTML = `<p class="muted">Opening the blueprint…</p>`;
-  const body = await fetch(`./data/runs/${encodeURIComponent(id)}.json`).then((r) => r.json());
+  try {
+  const body = await fetch(`./data/runs/${encodeURIComponent(id)}.json`).then((r) => {
+    if (!r.ok) throw new Error("missing blueprint " + r.status);
+    return r.json();
+  });
   const fp = fingerprint(meta.fingerprint);
   const chips = (slugs) => slugs.map((slug) => `<a class="chip" href="#/" data-guy="${esc(slug)}">${esc(label(slug))}</a>`).join("");
   view.innerHTML = `
@@ -343,6 +347,9 @@ async function runView(id) {
   );
   view.querySelectorAll("[data-copy]").forEach((btn) => btn.addEventListener("click", () => copy(body[btn.dataset.copy], btn)));
   view.querySelectorAll("[data-guy]").forEach((a) => a.addEventListener("click", () => (state.guy = a.dataset.guy)));
+  } catch (err) {
+    view.innerHTML = `<pre class="slip">${esc(err && err.stack ? err.stack : err)}</pre>`;
+  }
 }
 function sheet(title, html, key, trusted = false) {
   return `<article class="slip sheet"><header><h2 style="font-size:1rem">${title}</h2><button class="btn" data-copy="${key}" style="background:var(--ink);color:var(--paper)">Copy</button></header>${trusted ? html : `<pre>${esc(html)}</pre>`}</article>`;
