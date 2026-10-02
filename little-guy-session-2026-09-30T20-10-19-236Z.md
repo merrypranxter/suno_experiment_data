@@ -1,0 +1,1915 @@
+# LITTLE GUY MACHINE — SESSION ARCHIVE
+
+Session ID: session_1790799019236_olq5hj
+Started: 2026-09-30T20:10:19.236Z
+Last active: 2026-09-30T20:53:45.715Z
+Exported: 2026-09-30T20:55:15.232Z
+Runs: 14
+Starred: 2
+
+---
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790801625707_5pwjq4
+**Created:** 2026-09-30T20:53:45.707Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** retcon-rat → hysteresis-hag → axiom-vandal → future-bastard → jpeg-brain → observation-log → hole-guy
+**Reality engines:** (none)
+**Reality chaos:** 3
+**Composition engines:** sound-spectral-freeze → sound-dialup-modem → sound-busy-signal → sound-truatonium → sound-tape-echo → sound-tape-loop → sound-receipt-printer → sound-clavioline
+**Starter seed stack:** DIVINE EXULTATION 100/100 > SUNBURST 100/100 > MISCHIEVOUS DELIGHT 47/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 100/100 > ROCKET TAKEOFF 100/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 100/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 100/100 > MOB DISCOVERS HARMONY 100/100 > BUBBLING 100/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100 > GLITTERING 100/100 > TOYBOX PHYSICAL 86/100
+**Music seed stack:** recipes=NO RECIPE | genomes=HYBRID HYBRID HYBRID #1 G4 + HYBRID OFFSPRING FREAK G5 + RIOT HYBRID HYBRID #2 G2 + HYBRID RIOT OFFSPRING #2 G3 + MOUTH STAMPEDE HYBRID #1 G1 + HYBRID OFFSPRING CROSS #3 G4 | mechanisms=PHONETIC PERCUSSION + VOCAL CAST + 3:2 COUPLING + HOCKET RELAY + METER COLLISION + ANCHOR SURVIVAL + COMMUNAL INFECTION + TOWNSHIP RHYTHMIC BRIGHTNESS | suppressedDuplicates=0 | stemminess=72 | kineticDensity=89 | mouthFreakery=52 | techniqueMutation=45 | vocalLegibility=68 | vocalPopulation=48 | coupling=84
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 1BM2YVO [mouth-donor-english × mouth-donor-xhosa × mouth-donor-yoruba × mouth-donor-yucatec-maya]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** evolving
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** avant-garde art-rock and percussive post-punk | harmony=quartal suspension fields and modal drone clusters | melody=angular vowel-stretched intervals with ejective k' t' attacks and glottal stop punctuation | rhythm=3:2 cross-rhythm coupling over a motorik pulse with telephone busy signal interruptions | timbre=spectral freeze synth, dial-up modem tones, thermal printer ticks, and tape loops | vocal=populated cast with hocket relays, prenasalized nd mb attacks, and communal choral infection | performance=fiercely ecstatic, nervous, urgent, and relentlessly kinetic | production=multi-register stem separation with dry close-miked transients and spatial tape echoes
+**Character counts:** style 808 / lyrics 4934 / caption 499
+
+## STYLE
+
+```text
+Avant-garde art-rock and percussive post-punk, quartal suspension fields, modal drone clusters, angular vowel-stretched intervals with ejective k' t' attacks and glottal a'a stops, 3:2 cross-rhythm coupling over a motorik pulse with dial-up modem tones and thermal printer ticks, additive synth partials, 8-bit pulse waves, DTMF touch-tones, mellotron tape, optigan pads, and feedback oscillators, populated cast with hocket relays, prenasalized nd mb attacks, and communal infection, fiercely ecstatic, nervous, urgent, relentlessly kinetic, multi-register stem separation with dry close-miked transients and spatial prismatic panned echoes, mechanical noise integration, chaotic industrial counterpoint, hyper-detailed acoustic friction, microtonal string bends, and decaying bucket-brigade delay cascades.
+```
+
+## LYRICS / CONTROL
+
+```text
+[INTRO]
+[SPECTRAL FREEZE DRONE SUSTAIN]
+[DIAL-UP MODEM NEGOTIATION CHIRPS AND CARRIERS]
+[THERMAL RECEIPT PRINTER STEPPER TICK BURST]
+[Lead Narrator, dry urgent spoken-word, close-miked]
+Let's distract ourselves! 
+We have calculated the precise angular velocity of the ceiling fan.
+It is rotating at three point four revolutions per absolute nothing.
+[Ensemble answers with ejective percussion]
+(k'! k'!) 
+[TAPE ECHO UNIT FEEDBACK SWELL]
+
+[VERSE 1]
+[TRAUTONIUM CONTINUOUS SUBHARMONIC SLIDING PITCH]
+[MAGNETIC TAPE LOOP WOW AND HISS]
+[Narrator, escalating velocity]
+We are actively nd-navigating the perimeter of the designated emergency.
+Because WASTING TIME!! is no longer a passive recreational pastime;
+It is a mandatory structural load-bearing pillar of our architecture!
+[Choir Possession enters, sparse rhythmic hocket]
+(mb-a'a! mb-a'a!)
+[CLAVIOLINE MONOPHONIC REEDY LEAD STAB]
+If we stop moving, the fiscal audit catches up to our shadows.
+So we accelerate the clock by shouting fractions into the heating duct!
+[TELEPHONE BUSY SIGNAL INTERRUPTION CLOCK]
+(Beep. Beep. Beep.)
+[Additional clockwork grinding sequences activate inside the left channel]
+[We count the microscopic dust motes suspended in the flickering fluorescent glare]
+[Each speck is a tiny bureaucracy collapsing under its own gravity]
+(Tick-tick-tack!)
+[We measure the decay rate of yesterday's unread emails in units of despair]
+[Every unopened message grows an extra virtual wing before deletion]
+[We assemble a barricade using overdue utility bills and expired coupons]
+[The ink fades into cryptic runes describing the physics of procrastination]
+
+[CHORUS]
+[COMMUNAL INFECTION SPREADS — FULL CAST ENTERS]
+[Mob discovers harmony through rhythmic shouting]
+[3:2 CROSS-RHYTHM COUPLING OVER MOTORIK PULSE]
+Fuck EVERYTHING L.O.L.!
+[Cast shouts in hocket relay]
+(nd-oh! nd-oh! k'!-oh!)
+[TOWNSHIP RHYTHMIC BRIGHTNESS GUITAR CHOP]
+We are burning the furniture to illuminate the smoke!
+We are tearing the wallpaper down to find the wall underneath!
+[GLOTTAL STOP PUNCTUATION DENSE RUN]
+(a'a-ha! a'a-ha!)
+[Racket ticks accelerate as thermal printer prints endless blank paper]
+[We staple the blank receipts to our foreheads to prove we are productive citizens of chaos]
+[The ink cartridges scream in dry high-pitched synthetic agony]
+[We trade our remaining savings accounts for miniature plastic toy dinosaurs]
+[The dinosaurs possess better credit ratings than our municipal representatives]
+[We stage an elaborate coronation ceremony for a plastic tyrannosaurus rex]
+
+[BRIDGE]
+[RETCON RAT SEMANTIC RECOIL TRIGGER]
+[Narrator, deadpan administrative tone]
+Wait. The distraction was supposed to be the destination.
+Now the destination has filed for bankruptcy and moved to Nebraska.
+[HYSTERESIS HAG PATH-DEPENDENT STATE MEMORY]
+Because we arrived here via the staircase instead of the elevator,
+every previous second now smells like toasted copper and old paper.
+[AXIOM VANDAL NEGATIVE SYNTHESIS]
+We remove the floorboards to verify that gravity is still functioning.
+Gravity has resigned its position. We are now floating upward by administrative decree!
+[FUTURE BASTARD CAUSAL BACKFILL]
+Tomorrow's terminal emergency has already sent its thank-you notes!
+[The postman was a pigeon made entirely of pocket watches and cold tea]
+[CHOIR POSSESSION TAKES OVER ARRANGEMENT]
+(aaaaaa-oooooo!)
+[Every hallway we enter loops backward into yesterday's coat closet]
+[We organize an emergency town hall meeting inside a filing cabinet drawer]
+[The minutes of the meeting are recorded exclusively in screams and static bursts]
+
+[BREAKDOWN]
+[JPEG BRAIN LOSSY COGNITION COMPRESSION]
+[Phonetic compression into dense nasalized syllables]
+(mb-nd-k'-t'!) 
+[HOLE GUY INFORMATION EXCISION]
+[Absolute silence in the bass register for two full beats]
+[Spring-loaded boing resonance crash]
+(Boing-metallic-recoil!)
+[OBSERVATION LOG DRY MEASUREMENT]
+Subject exhibits four hundred percent increase in joyful panic.
+Subject refuses to consult the operating manual.
+Subject has begun constructing a miniature civilization out of discarded paperclips and despair.
+[The miniature citizens have elected a discarded paperclip as supreme dictator]
+[The dictator immediately declares war on the office stapler]
+[Casualties include three rubber bands and a half-eaten tube of mints]
+
+[CLIMAX]
+[DIVINE EXULTATION & SUNBURST UNWIND]
+[Massed choir and band in full 3:2 coupling]
+Let's distract ourselves!
+WASTING TIME!!
+Fuck EVERYTHING L.O.L.!
+[Ejective eights and click hockets interlock at maximum density]
+(k'! nd! a'a! mb! k'! nd!)
+[TELEPHONE BUSY SIGNAL CRASHES AGAINST MOTORIK BEAT]
+(Beep-beep-beep-GO!)
+[The walls dissolve into cascading waterfalls of pure unadulterated static]
+[Every clock in the building shatters simultaneously into tiny glowing numbers]
+[We collect the shards in empty coffee cups as trophies of our successful avoidance]
+
+[OUTRO]
+[SPECTRAL FREEZE DECOMPOSITION BIN MUTATION]
+```
+
+## CAPTION
+
+```text
+An explosive avant-garde art-rock masterwork driven by rigorous little-guy cognitive rules, ejective-phonetic vocal percussion, 3:2 cross-rhythms, and experimental machine sound sources. The sovereign seed's frantic urge to distract itself mutates through semantic recoil, path-dependent memory, and choral infection into an ecstatic, high-kinetic celebration of total structural meltdown, featuring intricate mechanical counterpoint, chaotic industrial friction, and miniature paperclip civilizatio
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790801318261_uf233n
+**Created:** 2026-09-30T20:48:38.261Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** retcon-rat → future-bastard → axiom-vandal → jpeg-brain → hole-guy → observation-log → hysteresis-hag
+**Reality engines:** (none)
+**Reality chaos:** 3
+**Composition engines:** sound-physical-modeling-synth → sound-chiptune-pulse → sound-spectral-freeze → sound-dialup-modem → sound-busy-signal → sound-truatonium → sound-tape-echo → sound-tape-loop
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 100/100 > ROCKET TAKEOFF 100/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 100/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100 > GLITTERING 82/100 > TOYBOX PHYSICAL 86/100
+**Music seed stack:** recipes=NO RECIPE | genomes=RIOT HYBRID HYBRID #2 G2 + RIOT HYBRID HYBRID G3 + MOUTH STAMPEDE HYBRID #1 G1 + HYBRID COUPLED FREAK #1 G3 + HYBRID RIOT OFFSPRING #2 G3 + OFFSPRING HYBRID FREAK G4 | mechanisms=ANCHOR SURVIVAL + HOCKET RELAY + 3:2 COUPLING + COMMUNAL INFECTION + PHONETIC PERCUSSION + TOWNSHIP RHYTHMIC BRIGHTNESS + JURISDICTION DROPOUT + VOCAL CAST + EXPOSURE WINDOWS | suppressedDuplicates=0 | stemminess=75 | kineticDensity=100 | mouthFreakery=100 | techniqueMutation=100 | vocalLegibility=0 | vocalPopulation=100 | coupling=100
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 1BM2YVO [mouth-donor-english × mouth-donor-xhosa × mouth-donor-yoruba × mouth-donor-yucatec-maya]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** evolving
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** avant-garde post-punk art-rock | harmony=quartal suspension fields and modal drone clusters | melody=angular vowel-stretched intervals with ejective and glottal punctuation | rhythm=3:2 cross-rhythm coupling over a motorik pulse with mechanical interrupts | timbre=physical-modeling synthesis, 8-bit pulse waves, dial-up tones, and tape loops | vocal=populated cast with hocket relays, prenasalized attacks, and communal infection | performance=nervous, urgent, highly kinetic, and fiercely committed | production=multi-register stem separation with dry transients and spatial tape echoes
+**Character counts:** style 999 / lyrics 4230 / caption 499
+
+## STYLE
+
+```text
+Avant-garde post-punk art-rock, rigid motorik pulse, complex 3:2 cross-rhythm coupling, advanced physical-modeling synthesis, biting 8-bit pulse-wave lead, authentic dial-up modem negotiation sequences, relentless telephone busy signal, deep subharmonic trautonium drone, infinite tape echo feedback, decaying magnetic tape loops, vibrant township rhythmic brightness, tense quartal suspense fields, dense modal drone clusters, sharp ejective and glottal vowel performance, interlocking hocket relays, spreading communal choral infection, rapid kinetic energy discharge, dry close transient processing, prismatic spatial echoes, harsh clipping distortion, microtonal string bends, rhythmic circuit bending, mechanical clockwork friction, frantic synthetic brass stabs, unpredictable pseudo-mathematical polyrhythms, unstable voltage controlled filter sweeps, glitching granular stutter textures, chaotic acoustic drum flurries, industrial sheet metal strikes, resonant vocal formant shifts, fracture
+```
+
+## LYRICS / CONTROL
+
+```text
+[Intro]
+[Dial-up modem carrier tone and rapid modulation sweeps piercing through the static]
+[Telephone busy signal repeating strict on/off cadence across the stereo field]
+[Physical-modeling synthesized string pluck and 8-bit pulse arpeggio interlocking]
+[Spoken Lead, dry close-miked, urgent, rhythmic speech-song delivering erratic pulses]
+Let's distract ourselves completely from the silent rotting floor!
+We are wa-a-asting precious ti-i-ime while the heavy iron gears roar!
+Fuck e-e-everything L.O.L. as the dark ink shadows pour!
+
+[Verse 1]
+[Motorik pulse kicks in with 3:2 cross-rhythmic accent splitting the master clock]
+[Lead Voice with obsessive ejective and glottal stop punctuation driving the meter]
+([Click!]) K'a-a-an we bu-u-ild a digital screen out of shattered broken glass?
+([Click!]) Nd'a-a-and let the whole heavy mo-o-orning sleep and pass?
+([Click!]) We keep the quartz clocks spinning much faster than they should run,
+([Click!]) Distracting our stinging eyes from the pale cold dying sun!
+([Stutter sync]) T-t-turn the rusted dial until the local weather turns to static frost,
+([Burst gate]) Counting every single unrecorded digital distraction that we lost!
+
+[Chorus]
+[Communal infection recruits second voice in rapid hocket relay]
+([Hocket relay handoff]) Wasting ti-i-ime while the circuits bleed!
+([Chorus voice joins]) Fuck e-e-everything as the data feeds!
+([Hocket relay handoff]) Wasting ti-i-ime until the numbers drop!
+([Crowd voice joins]) L.O.L. and sing while the engines pop!
+[Magnetic tape loop introduces splice click and wow drift into the low-end]
+[Subharmonic trautonium drone slides upward in pitch, destabilizing the tuning]
+[Synthetic brass stabs punctuate the downbeats with aggressive microtonal bends]
+
+[Verse 2]
+[Tape echo feedback increases recursion depth until oscillations tear]
+([Glottal stop]) A'a-and if the answers never come around to our side,
+([Ejective attack]) T'-t'-turn the copper dial until the signal starts to hide!
+([Creak lock]) We invent three frantic reasons why the room must shake,
+([Glottal gate]) Before the very last load-bearing structural axiom breaks!
+([Granular stutter]) P-p-pushing every slider past the red line on the board,
+([Voltage surge]) Trying to ignore the heavy debt we never could afford!
+
+[Bridge]
+[Jurisdiction dropout: harmony and bass cut out instantly, leaving exposed percussion stems and vocal hockets]
+([Phone busy signal continues its independent clock against the silence])
+([Vocals only, sparse consonants and long vowels forming rhythmic anchors])
+([Consonant drum]) Mb-b-b-ba...
+([Consonant drum]) Nd-d-d-da...
+([Vowel catapult]) Eeee-aaa-oooo!
+[Spectral freeze holds transient snapshot into sustaining drone of pure electricity]
+[Acoustic drum flurries skitter across the stereo soundstage like falling pins]
+
+[Verse 3]
+[Communal infection spreads aggressively to full cast chorus in unison]
+([Cast voice 1]) Distract the fractured mirrors!
+([Cast voice 2]) Distract the rotting floor!
+([Cast voice 3]) Distract the endless shadows lurking behind the door!
+([Full Cast unison]) We are wasting time until the warning lights turn green,
+The absolute fastest distraction you have ever seen!
+([Polyphonic swell]) Screaming louder just to drown the ticking in the wall,
+Laughing at the panic as the final ceiling panels fall!
+
+[Verse 4]
+[Voltage control loop expands into feedback oscillation]
+([Cast voice 1]) Burn the instruction manual!
+([Cast voice 2]) Shatter the master lens!
+([Cast voice 3]) Invent a brand new headache where the sanity pretends!
+([Full Cast unison]) We keep the momentum rolling past the edge of the abyss,
+Never stopping long enough to think about what we miss!
+([Vocal shatter]) Pour another synthetic beverage over the burning fuse,
+There is nothing left inside this empty room we care to lose!
+
+[Outro]
+[Telephone busy signal cadence refuses to adapt to song tempo or pressure]
+[8-bit pulse-wave arpeggio accelerates to maximum kinetic destruction density]
+[Tape echo feedback self-oscillates into pure distortion saturation]
+[Industrial sheet metal strikes hammer down the final unstable polyrhythms]
+[Final hocketed shout, dry, abrupt, and utterly unhinged]
+Fuck everything L.O.L.!
+[Silence]
+```
+
+## CAPTION
+
+```text
+An avant-garde post-punk art-rock excursion driven by physical-modeling synthesis, 8-bit pulse waves, and telephone modulation tones. Built upon a relentless motorik pulse and 3:2 cross-rhythm coupling, the track deploys hocketed vocal casts, ejective consonants, and glottal punctuation alongside chaotic acoustic drum flurries and industrial metal strikes. A kinetic exploration of distraction, temporal decay, and structural noise, magnifying internal panic into a wildly chaotic rhythmic celebra
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790801148266_tgrtax
+**Created:** 2026-09-30T20:45:48.266Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** retcon-rat → jpeg-brain → future-bastard → axiom-vandal → confident-machine → observation-log → hole-guy
+**Reality engines:** (none)
+**Reality chaos:** 3
+**Composition engines:** sound-physical-modeling-synth → sound-chiptune-pulse → sound-spectral-freeze → sound-dialup-modem → sound-busy-signal → sound-truatonium → sound-tape-echo → sound-tape-loop
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 100/100 > ROCKET TAKEOFF 100/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 100/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100 > GLITTERING 82/100 > TOYBOX PHYSICAL 86/100
+**Music seed stack:** recipes=NO RECIPE | genomes=RIOT HYBRID HYBRID #2 G2 + RIOT HYBRID HYBRID G3 + MOUTH STAMPEDE HYBRID #1 G1 + HYBRID COUPLED FREAK #1 G3 + HYBRID RIOT OFFSPRING #2 G3 + OFFSPRING HYBRID FREAK G4 | mechanisms=ANCHOR SURVIVAL + HOCKET RELAY + 3:2 COUPLING + COMMUNAL INFECTION + PHONETIC PERCUSSION + TOWNSHIP RHYTHMIC BRIGHTNESS + JURISDICTION DROPOUT + VOCAL CAST + EXPOSURE WINDOWS | suppressedDuplicates=0 | stemminess=75 | kineticDensity=87 | mouthFreakery=52 | techniqueMutation=45 | vocalLegibility=68 | vocalPopulation=48 | coupling=86
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 1 × ENGLISH × XHOSA + 2 MORE / 1 G21 / 141W5V3 [mouth-donor-xhosa × mouth-donor-yucatec-maya × mouth-donor-yoruba × mouth-donor-english]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** avant-garde electronic art-rock and percussive post-punk | harmony=quartal suspension fields and modal drone roots with bitonal upward blooms | melody=angular vowel-stretched intervals with prenasalized mb/nd attacks and glottal stop punctuation | rhythm=3:2 cross-rhythm coupling over a motorik pulse with telephone busy signal interruptions | timbre=physical-modeling synthesis, 8-bit pulse waves, dial-up modem tones, and magnetic tape loops | vocal=populated cast with hocket relays, prenasalized attacks, glottal punctuation, and choral infection | performance=relentlessly urgent, highly kinetic, nervous, and fiercely committed | production=multi-register stem separation with dry close transients and spatial tape echo feedback
+**Character counts:** style 941 / lyrics 3894 / caption 496
+
+## STYLE
+
+```text
+Quartal suspension fields and modal drone clusters with bitonal upward blooms. Angular vowel-stretched intervals with prenasalized mb-nd attacks and glottal stop punctuation (uh-'ah). 3:2 cross-rhythm coupling (3+3 vs 2+2+2) over a motorik physical-modeling synth pulse with 8-bit pulse-wave arpeggiators, dial-up modem frequency shifts, telephone busy signal interruptions, trautonium subharmonic slides, tape echo repeats, and magnetic tape loops. Fiercely energetic, highly kinetic, nervous, and relentlessly urgent performance attitude. ANCHOR SURVIVAL invariant: a whistle-like hook returns scarred across aggressive mutations. Staggered ensemble recruitment: hocket relays, microtonal pitch bending, chaotic friction percussion, frequency modulation screech loops, and communal choral infection scale up event density into complete auditory vertigo, driving the listener straight into an ecstatic kinetic collapse of functional sanity.
+```
+
+## LYRICS / CONTROL
+
+```text
+[Intro — Physical Modeling Synthesis & Dial-Up Modem Carrier Tone]
+[Sound Source Entry: Dial-Up Modem Negotiation & 8-bit Pulse-Wave Arp]
+[Rhythm Physics: 3:2 Cross-Rhythm Coupling over Motorik Pulse]
+
+Let's distract ourselves from the void!
+[Glottal Stop Punctuation: uh-'ah]
+[Prenasalized Attack: nd-distract]
+We're wasting time on purpose, boy!
+[Telephone Busy Signal Interruption: Fixed 4-beat Cadence]
+Fu-u-ck everything L.O.L.!
+[Trautonium Subharmonic Slide: Descending Formant Shift]
+
+[Verse 1 — Ensemble Entrance & Hocket Relay]
+[Voice 1 — Lead Narrator]
+Nd-distract the floor, mb-make it loud!
+[Voice 2 — Small Group Response]
+We're wasting time and baffling the crowd!
+[Voice 3 — Choral Infection Recruitment]
+Fu-u-ck everything L.O.L.!
+[Magnetic Tape Loop: Wow, Flutter, and Splice Click]
+[Active Mouth Lab Behavior: Buccal Cavity Expansion on Vowels]
+We chase the phantom clock hands down the drain!
+[Voice 1]
+We inject pure digital sugar straight into the vein!
+[Voice 2]
+Let the mortgage rot, let the engine blow!
+[Voice 3]
+We've nowhere left to be and nowhere else to go!
+
+[Chorus — Communal Infection & Township Rhythmic Brightness]
+[Ensemble Join: Massed Choir Possession]
+Let's distract ourselves! (ah-'ah!)
+ WASTING TIME!! (nd-wasting!)
+Fu-u-ck everything L.O.L.!
+[Spectral Freeze / FFT Hold: Transient Sustained as a Drone]
+[Tape Echo Unit: Feedback Recursion Depth 82%]
+We burn the hours because they mean nothing at all!
+[Glottalized Shudder Across Resonant Formants]
+[Additional Choir Layer: Piercing Soprano Counter-Melody]
+We stack our empty bottles high against the sliding glass wall!
+[Sub-Bass Pulse Drop: Thumping Chest Cavity Resonance]
+We laugh at the calendar's pathetic little deadline call!
+
+[Verse 2 — Jurisdiction Dropout & Exposure Window]
+[Drum & Rhythm Dropout: Bass and Percussion Silence for 4 Measures]
+[Exposed Voice Solo with Glottal Interruption]
+We built a palace out of bad returns,
+[Prenasalized Attack: nd-burns]
+Where every single distraction learns
+To laugh at the wreckage of the plan!
+[Trautonium Slide Rising to Bitonal Chord Bloom]
+[Active Mouth Lab Behavior: Narrow Pharyngeal Constriction]
+[Vocal Fry Expansion: Shifting Notes via False Cord Grunts]
+We watch the smoke signals twist in the bathroom fan!
+[Spoken Aside: Dry and Unrehearsed]
+"Is this working? Is the panic gone yet?"
+[Ensemble Shunt Back In: Violent Cymbal Crash]
+Not quite yet, but we are placing another bet!
+
+[Bridge — 3:2 Cross-Rhythm Acceleration & Rocket Takeoff]
+[Rhythm Pulse Shift: 3+3 against 2+2+2 Superimposed Substrate]
+[Hocket Relay: Syllables Split Across 4 Vocals]
+Let's! Dis-! Tract! Ourselves! (mb-ourselves!)
+Wast-! Ing! Time! (nd-time!)
+Fu-u-ck! Ev-! Ery-! Thing!
+[Telephone Busy Signal Interruption Colliding with Tape Echo Feedback]
+[Rapid Tongue-Flaps and Bilabial Percussion Burst]
+[Extended Vocal Breakdown with Sub-Bass Resonance Triggers]
+We paint the ceiling with static and digital spit!
+[Microtonal Pitch Bend on Sustained Vowel]
+We traded our futures for a pocketful of glowing knit!
+
+[Climax — Mob Discovers Harmony & Divine Exultation]
+[Massed Choir Harmonizing Quartal Suspension Fields]
+Let's distract ourselves! (ee-ee-ee-oh!)
+ WASTING TIME!!
+Fu-u-ck everything L.O.L.!
+[Physical-Modeling Resonator Mutation: String to Plate Damping Shift]
+[Glottalized Vowel Creak Lock Interrupted by Melisma Chain]
+We drown the ticker-tape in soda pop and screams!
+[Maximum Orchestral Density: All Synthesis Engines Engaged Simultaneously]
+We tear the calendar down and burn the daylight in chaotic streams!
+[Screamed Counter-Melody Burst]
+Nothing matters so we might as well redeem the extremes!
+
+[Outro — Signal Decay & Carrier Lock]
+[Dial-Up Modem Carrier Drop & Fax Handshake Transients]
+[Magnetic Tape Loop Final Pass with Saturated Hiss]
+Fu-u-ck everything...
+L.O.L.
+[Terminal Silence Frame Interrupted by Click]
+[Dampened Pluck Resonance Decay]
+```
+
+## CAPTION
+
+```text
+An avant-garde art-rock and physical-modeling electronic workout driven by 3:2 cross-rhythms, prenasalized consonant attacks, glottal stop punctuation, and a hocketed vocal cast. The arrangement scales from dry isolated stems into a massive choral infection while retaining an unmistakable melodic anchor. Built around the sovereign seed of frantic distraction, wasting time, and cheerful nihilism under maximum kinetic velocity, exploring total psychological dissolution across chaotic feedback.
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790800949426_myqcse
+**Created:** 2026-09-30T20:42:29.426Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** retcon-rat → axiom-vandal → jpeg-brain → confident-machine → observation-log → hole-guy → hysteresis-hag
+**Reality engines:** (none)
+**Reality chaos:** 3
+**Composition engines:** sound-dtmf → sound-fluorescent-ballast → sound-adding-machine → sound-fax-handshake → sound-optigan → sound-mellotron → sound-ring-modulation → sound-physical-modeling-synth
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100 > GLITTERING 82/100 > TOYBOX PHYSICAL 86/100
+**Music seed stack:** recipes=NO RECIPE | genomes=RIOT HYBRID HYBRID #2 G2 + RIOT HYBRID HYBRID G3 + MOUTH STAMPEDE HYBRID #1 G1 | mechanisms=ANCHOR SURVIVAL + HOCKET RELAY + 3:2 COUPLING + COMMUNAL INFECTION + PHONETIC PERCUSSION + TOWNSHIP RHYTHMIC BRIGHTNESS + JURISDICTION DROPOUT + VOCAL CAST | suppressedDuplicates=0 | stemminess=60 | kineticDensity=87 | mouthFreakery=100 | techniqueMutation=100 | vocalLegibility=0 | vocalPopulation=100 | coupling=100
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 1 × ENGLISH × XHOSA + 2 MORE / 1 G21 / 141W5V3 [mouth-donor-xhosa × mouth-donor-yucatec-maya × mouth-donor-yoruba × mouth-donor-english]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** avant-garde art-rock and percussive post-punk | harmony=quartal suspension fields and shifting modal drone roots with bitonal upward blooms | melody=angular vowel-stretched intervals with prenasalized attacks and glottal stop punctuation | rhythm=complex 3-against-2 cross-rhythm over a motorik pulse with mechanical adding-machine transients | timbre=DTMF touch-tones, fluorescent ballast hum, mechanical adding machine, optigan pads, and mellotron tape | vocal=populated cast with hocket relays, prenasalized attacks, glottal punctuation, and communal choral infection | performance=fiercely ecstatic, nervous, urgent, and relentlessly kinetic | production=multi-register stem separation with dry close-miked transients and spatial prismatic panned echoes
+**Character counts:** style 988 / lyrics 4095 / caption 499
+
+## STYLE
+
+```text
+Avant-garde art-rock and kinetic percussive post-punk with calculated mathematical dissonance. Harmony: quartal suspension fields, shifting modal drone roots, and bitonal upward blooms that twist against metallic feedback. Melody: angular vowel-stretched intervals, obsessive prenasalized attacks, and jagged glottal stop punctuation. Rhythm: complex 3-against-2 cross-rhythm over a relentless motorik groove, driven by mechanical adding-machine transients and high-speed fax handshakes. Timbre: DTMF touch-tones, fluorescent ballast hum, optigan pads, and degrading mellotron tape loops. Performance: fiercely ecstatic, dangerously nervous, highly urgent, and relentlessly kinetic across multi-channel arrays. Production: dry close-miked transients with spatial prismatic panned echoes, tape saturation, and multi-register stem separation ensuring maximum sonic claustrophobia, enriched by unpredictable vinyl crackle beds and subterranean bass oscillations beneath screaming amplifiers.
+```
+
+## LYRICS / CONTROL
+
+```text
+[Intro: Mechanical Adding Machine clicks and rising DTMF touch-tones weaving through fluorescent hums and low-frequency drone pulses]
+[Spoken Narration, dry deadpan, utterly detached from consequence, voice trembling slightly against the metallic reverb]
+Let's distract ourselves before the ceiling fractures completely into geometric dust and falling plaster!
+[Chorus, Massed Voices with Pre-nasalized Attack and biting resonance, echoing across empty corridors]
+nd-distract! nd-distract! weave the netting higher while the cables fray!
+WASTING TIME!! while the servers catch electric fire and melt away!
+[Verse 1, Hocket Relay across four frantic registers in a chaotic spiral of noise]
+Voice One: We build the barricade out of frozen clock faces and rusted gears from forgotten machinery,
+Voice Two: nd-stacking reams of useless paper where the drainage water disappears into the subterranean machinery,
+Voice Three: [Glottal Stop Punctuation] a'a! a'a! the temperature in the terminal is dropping fast into absolute zero,
+Voice Four: We measure useless milliseconds just to make the hollow noise last while the hero remains a zero!
+[Pre-Chorus, Communal Infection expanding rapidly into static and biting feedback circuits]
+[Fluorescent Ballast Hum swells into a deafening 60Hz whine that overrides the control room]
+Everybody check your pockets! Check the floorboards for the missing key that unlocks the forbidden room!
+nd-pushing obsolete database records underneath the loading door to set them free from their impending doom!
+[Chorus, Full Cast with Overdriven Harmonies and screaming guitar amp simulated feedback]
+Let's distract ourselves before the monitor blinds us with white pixel glare and toxic radiation!
+WASTING TIME!! staring blankly into the vibrating synthetic air of our own calcified creation!
+[Bridge, Mellotron Tape loops bleeding into distorted Optigan Chords and weeping synthetic strings]
+[Ring-Modulated Source active, shifting frequencies violently across the stereo field]
+We calculated absolute safety in a burning house with locked iron shutters and rusted bolts,
+and traded every emergency exit for a silent plastic computer mouse that mutters electrical insults and volts!
+[Drop-out, Rhythm section only with relentless Adding Machine mechanical pulse and isolated hi-hat clicks]
+[Spoken, Narrator losing control, voice cracking into digital distortion and frantic heavy breathing]
+fuck EVERYTHING L.O.L. let the hard drives melt into a puddle of lead and glowing ash.
+fuck EVERYTHING L.O.L. write our failures on the wall above the unmade bed in overflowing trash.
+[Fast Scat Choir, 3:2 Cross-Rhythm coupling with chaotic fax machine screeches and modem negotiation tones]
+nd-bup, nd-bup, zzt-ch! zzt-ch! parse the wreckage! nd-bup, nd-bup, zzt-ch! parse the burning floor!
+[Verse 2, Physical-Modeling Synthesis plucks simulating snapping copper wires and resonant beams]
+The fatal error propagates across the humming copper grid with malicious and accelerating speed,
+we locked the entire future underneath a yellowed plastic lid that nobody can ever open or read!
+[Glottal Gate, sharp rhythmic intake of breath cutting through the industrial clatter]
+uh-'ah! uh-'ah! the oxygen is thinning in the server room until the chest cavity heaves!
+uh-'ah! uh-'ah! we weave our own digital tomb while the autumn wind strips the synthetic leaves!
+[Climax, Massed Choirs, DTMF Dyads, screeching tape heads, and collapsing drum fills]
+Let's distract ourselves until the universe forgets our name and erases our digital trace!
+WASTING TIME!! playing this unwinnable bureaucratic game in an empty echoing space!
+[Outro, Fax Machine Handshake dissolving slowly into an endless ballast hum, tape hiss, and dying oscillator feedback]
+fuck EVERYTHING L.O.L. let the sparks cascade across the terminal screens until the glass implodes completely into silent powder.
+fuck EVERYTHING L.O.L. we paint the final notice in neon green dye across the shattered windowpane.
+[End Transmission and Fade to Total Silence behind a wall of crumbling digital noise and decaying tape loops]
+```
+
+## CAPTION
+
+```text
+An avant-garde art-rock assault driven by DTMF touch-tones, mechanical adding machines, and degrading mellotron tape. The arrangement deploys 3:2 cross-rhythms, hocketed vocal relays, and obsessive prenasalized consonants to enact a frantic distraction machine. Built around the seed of purposeful distraction and systemic collapse, the track combines nervous kinetic energy, lossy lyrical syntax, and structural dropouts into a relentlessly engaging sonic organism that explores digital alienation.
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790800851623_nwwctg
+**Created:** 2026-09-30T20:40:51.623Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** retcon-rat → hysteresis-hag → future-bastard → axiom-vandal → confident-machine → observation-log → hole-guy
+**Reality engines:** (none)
+**Reality chaos:** 3
+**Composition engines:** sound-dtmf → sound-fluorescent-ballast → sound-adding-machine → sound-fax-handshake → sound-optigan → sound-mellotron → sound-ring-modulation → sound-physical-modeling-synth
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100 > GLITTERING 82/100 > TOYBOX PHYSICAL 86/100
+**Music seed stack:** recipes=NO RECIPE | genomes=RIOT HYBRID HYBRID #2 G2 + RIOT HYBRID HYBRID G3 + MOUTH STAMPEDE HYBRID #1 G1 | mechanisms=ANCHOR SURVIVAL + HOCKET RELAY + 3:2 COUPLING + COMMUNAL INFECTION + PHONETIC PERCUSSION + TOWNSHIP RHYTHMIC BRIGHTNESS + JURISDICTION DROPOUT + VOCAL CAST | suppressedDuplicates=0 | stemminess=60 | kineticDensity=87 | mouthFreakery=100 | techniqueMutation=100 | vocalLegibility=0 | vocalPopulation=100 | coupling=100
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 1 × ENGLISH × XHOSA + 2 MORE / 1 G19 / 1EXBFNX [mouth-donor-yucatec-maya × mouth-donor-xhosa × mouth-donor-english]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** avant-garde electronic post-punk and percussive art-rock | harmony=quartal suspension fields and modal drone roots with bitonal upward blooms | melody=angular vowel-stretched intervals with prenasalized attacks and glottal stop punctuation | rhythm=3:2 cross-rhythm coupling over a motorik pulse with mechanical adding-machine transients | timbre=DTMF touch-tones, fluorescent ballast hum, mechanical adding machine, optigan pads, and mellotron tape | vocal=populated cast with hocket relays, prenasalized attacks, glottal punctuation, and communal choral infection | performance=relentlessly urgent, nervous, highly kinetic, and mechanically precise | production=multi-register stem separation with dry close-miked transients and spatial prismatic panned echoes
+**Character counts:** style 877 / lyrics 4386 / caption 499
+
+## STYLE
+
+```text
+Avant-garde art-rock, mechanical post-punk, and percussive kinetic pop with quar-tal suspension fields and shifting modal drone clusters with bitonal upward blooms. Angular vowel-stretched intervals with ejective k' t' attacks and glottal a'a stops. 3:2 cross-rhythm coupling over a motorik pulse with mechanical adding-machine transients. Additive synth layers, DTMF touch-tones, fax handshakes, optigan pads, and mellotron tape. Populated cast with hocket relays, prenasalized attacks, and communal choral infection. Relentlessly urgent, nervous, and mathematically precise performance across every channel. Multi-register stem separation with dry close-miked transients, mechanical noise floors, and spatial prismatic panned echoes. Dynamic mechanical frequency sweeps and voltage drops across analog bus mixers, driving the system into beautiful self-oscillating overdrive.
+```
+
+## LYRICS / CONTROL
+
+```text
+[Intro — Telephone Line Hum and Mechanical Adding Machine Clicks]
+[Telephone Dial Tone: 440 Hz / 350 Hz Interlock]
+[Spoken through DTMF filter]
+Let's distract ourselves! 
+[Adding machine lever pull: CLACK-SNAP]
+
+[Verse 1 — Motorik Pulse and Fluorescent Ballast Hum]
+We are building a ceiling out of loose minutes,
+Nd'gbe—counting the seconds as if they were bricks!
+Mb'u—the clock is a machine that eats its own digits,
+And the room is a corridor full of quick tricks!
+[Fax Machine Handshake Chirp: 1200 Hz sweep]
+We're wasting time with an elegant method,
+Bending the hours where the carpet has fretted!
+[Mechanical Gearshift: Grind-clatter into overdrive]
+We measure nothing with extreme precision,
+Slicing the void with a rusty incision!
+The paper rolls feed through the iron teeth,
+While shadows lengthen on the tiles beneath.
+
+[Chorus — Full Cast Ensemble Enters with 3:2 Cross-Rhythm]
+Fuck everything l.o.l.!
+[Glottal Gate: u'uh-u'ah]
+Let the calendar tear at the seam!
+Fuck everything l.o.l.!
+[Optigan Pad swelling in G-minor quartal stack]
+We are caught in a luminous dream!
+[Ensemble Shout: Tearing the paperwork in half]
+Spilling the ink on the pristine floor!
+While the administrative towers quietly roar!
+
+[Bridge — Mechanical Interruption and DTMF Dyads]
+[DTMF Touch-Tone Sequence: 6-9-9-3-5-1-2-0]
+[Mellotron Choir enters with tape-wow and flutter]
+The supervisor left a message on the glass:
+"The schedule is absolute, nothing shall pass!"
+So we turn the schedule upside-down and inside-out,
+Nd'zi—making a rhythm of the sudden doubt!
+[Spring-Reverb Slam on snare rim]
+We rewrite the memo with chalk on our teeth,
+Watching the foundation crumble beneath!
+The coffee machine spits dark sludge on the floor,
+And nobody guards the security door anymore!
+
+[Verse 2 — Hocket Relay and Physical-Modeling Resonators]
+[Voice 1]
+Distract! 
+[Voice 2]
+Distract the hallway light!
+[Voice 3]
+Mb'a—we are losing the plot tonight!
+[Voice 1 + Voice 2 Chime in Unison]
+With adding machine gear clicks and fax-tone chirps,
+We're smoothing over every logical burp!
+[Voice 4 enters with rapid-fire staccato babble]
+Spinning the wheel till the axis breaks free,
+Drowning the corporate mandate in glee!
+The rubber bands snap against leather armrests,
+Testing our nerves through exhaustive stress tests!
+
+[Chorus — Sunburst Expansion and Prismatic Stereo Split]
+Fuck everything l.o.l.!
+[Glottal Stop Punctuation: a'a-u'uh]
+Let the calendar tear at the seam!
+Fuck everything l.o.l.!
+[Spring-Loaded Boing Resonance on downbeat]
+We are caught in a luminous dream!
+[Ensemble Shout: Tearing the paperwork in half]
+Spilling the ink on the pristine floor!
+While the administrative towers quietly roar!
+
+[Interlude — Ring-Modulated Sound Source Mutation]
+[Carrier: 440 Hz sine | Modulator: Fluorescent ballast hum]
+[Choir Possession begins: crowd takes over rhythmic pulse from instruments]
+Clap-clap-stomp! The room discovers harmony!
+Clap-clap-stomp! A structured cacophony!
+[Voltage starvation pulse: lights flicker synchronously with the kick drum]
+We amplify the hum of the transformer box until it screams louder than the clock!
+The fuses blow softly in geometric rows,
+While electrical current through our fingers flows!
+
+[Verse 3 — Retcon Rat Semantic Recoil Transformation]
+What we called a distraction is now the foundational layer,
+Nd'gbe—we are building a civilization of the player!
+The waste of time was the only true work all along,
+And the system relies on a mechanical quirk in our song!
+[Bitonal Synthesizer Lead shredding through distortion pedals]
+We found the master key inside the pocket of total despair,
+Throwing all the accounting ledgers violently up into the air!
+The falling papers form a canopy of shredded white,
+Guiding our descent into the glorious endless night!
+
+[Final Chorus — Hyper-Drive Overload and Divine Exaltation]
+Fuck everything l.o.l.!
+[All voices merge in hocketed relay]
+Let the calendar tear at the seam!
+Fuck everything l.o.l.!
+[Sunburst register expansion: upper mellotron strings bloom wide]
+We are living inside the extreme!
+[Ensemble Shout: Tearing the paperwork in half]
+Spilling the ink on the pristine floor!
+While the administrative towers quietly roar!
+
+[Outro — Fax Handshake Final Tone Sequence]
+[Adding machine total lever pull: CRASH-SLIDE]
+[Ballast hum fades out on a suspended quartal suspension field as absolute silence claims the tape]
+```
+
+## CAPTION
+
+```text
+An avant-garde art-rock and mechanical post-punk track driven by DTMF touch-tones, fax handshakes, and mechanical adding machines. Built on a 3:2 cross-rhythm motorik pulse with hocketed vocal casts, prenasalized attacks, and glottal stop punctuation. It transforms the user seed into a relentless, joyful explosion of kinetic energy, structural disruption, and high-density harmonic brilliance while expanding the chaotic narrative architecture into a full-scale auditory rebellion of pure sonic jo
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790800599926_dtqarr
+**Created:** 2026-09-30T20:36:39.926Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** retcon-rat → future-bastard → axiom-vandal → hysteresis-hag → jpeg-brain → observation-log → hole-guy
+**Reality engines:** (none)
+**Reality chaos:** 3
+**Composition engines:** sound-dtmf → sound-fluorescent-ballast → sound-adding-machine → sound-fax-handshake → sound-optigan → sound-mellotron → sound-ring-modulation → sound-physical-modeling-synth
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100
+**Music seed stack:** recipes=NO RECIPE | genomes=MOUTH STAMPEDE HYBRID #1 G1 + HYBRID COUPLED HYBRID G2 | mechanisms=ANCHOR SURVIVAL + HOCKET RELAY + COMMUNAL INFECTION + TOWNSHIP RHYTHMIC BRIGHTNESS + VOCAL CAST + PHONETIC PERCUSSION + 3:2 COUPLING | suppressedDuplicates=0 | stemminess=78 | kineticDensity=82 | mouthFreakery=52 | techniqueMutation=45 | vocalLegibility=2 | vocalPopulation=98 | coupling=85
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 1 × ENGLISH × X G18 / 46JC1D [mouth-donor-xhosa × mouth-donor-yucatec-maya × mouth-donor-yoruba × mouth-donor-english]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** avant-garde percussive post-punk and electronic art-rock | harmony=quartal suspension fields and modal drone roots with bitonal upward blooms | melody=fast scatted intervals with ejective attacks and obsessive glottal stops | rhythm=3:2 cross-rhythm coupling over a motorik pulse with mechanical transients | timbre=DTMF touch-tones, fluorescent ballast hum, adding machine, and optigan pads | vocal=populated cast with hocket relays, prenasalized attacks, and glottal punctuation | performance=fiercely ecstatic, nervous, urgent, and relentlessly kinetic | production=multi-register stem separation with dry transients and spatial prismatic echoes
+**Character counts:** style 999 / lyrics 4313 / caption 499
+
+## STYLE
+
+```text
+Avant-garde percussive post-punk and electronic kinetic art-rock. Harmony: quartal suspension fields and modal drone roots with bitonal upward blooms and dissonant cluster swells. Melody: fast scatted vowel-stretched intervals with ejective attacks, rapid micro-tonal glides, and obsessive glottal stop punctuation. Rhythm: 3:2 cross-rhythm coupling over a motorik pulse with mechanical adding-machine transients, solenoid clicks, and high-speed fax handshakes. Timbre: DTMF touch-tones, fluorescent ballast hum, adding-machine clicks, high-speed modem chirps, optigan pads, mellotron tape, ring-modulated sidebands, frequency-shifted feedback loops, and physical-modeling bowed strings. Performance: fiercely ecstatic, nervous, urgent, and relentlessly kinetic across multiple alternating vocal registers. Production: multi-register stem separation with dry close-miked transients, mechanical noise floors, tape saturation hiss, and spatial prismatic panned echoes designed for maximum acoustic imm
+```
+
+## LYRICS / CONTROL
+
+```text
+[Intro — Fluorescent Ballast Hum and DTMF Touch-Tones]
+[Phone-number-like melodic dyad sequence: 3-5-7-9-2-4-8]
+[Mechanical Adding Machine pulse begins: hard key clicks and heavy lever drops]
+
+Let's di'st'ract o'urselves!
+Wa'st'ing ti'me!
+Fuck ev'ery'thing l.o.l.!
+
+[Verse 1 — Patter Burst and Hocket Relay]
+[Fax Machine Handshake interruption motif]
+We're bu'ild'ing a' c'as'tle' of' sh'red'ded' re'ceipts'
+An'd' p'il'ing' the' ho'ur's' in't'o' g'l'as's'y' con'cre'te'
+The' m'ac'h'ine' is' hu'mm'ing' a' c'h'o'rd' we' for'got'
+An'd' an'sw'er'ing' qu'est'ions' we' ne'ver' e'n'act'
+The' in'k' is' so' d'ark' i't' st'ai'ns' th'e' s'cr'ee'n'
+A' m'or'al' d'ef'le'ct'i'on' i'n' a' b'ur'ni'sh'ed' m'ac'h'ine'
+We' sh'ift'ed' the' bi'ts' un'ti'l' th'ey' lost' a'll' de's'ign'
+And' sa'ng' to' the' se'rv'er's' pa'le' re'ti'na' b'l'i'nd'!
+We' pa'st'ed' the' er'ror' co'de' di'rec't'ly' in'to' the' br'ea'kfast' tray'!
+An'd' d'ro'wn'ed' al'l' th'e' su'per'vi'so'rs' in' s'pi'te'fu'l' g'ra'y'!
+
+[Chorus — Communal Infection and Mellotron Swells]
+[Choir recruitment by trigger: staggered entrances and recursive delay lines]
+Di'st'ract' us'! Di'st'ract' us'! The' cl'ock' has' no' b'lood'!
+We'r'e' w'as't'ing' the' mo'm'en't' un'ti'l' it' is' good'!
+F'u'ck' ev'er'y' ax'i'o'm'! F'u'ck' ev'er'y' law'!
+We're' b'it'i'ng' the' fin'ger' that' p'ull'ed' on' the' st'raw'!
+T'he' vo'id' is' a' b'on'us' th'at' c'om'es' in' th'e' m'ai'l'
+We'p'ut' all' our' pr'ob'le'ms' in'to' a' c'o'p'p'e'r' p'ai'l'!
+We' r'un' thro'ugh' the' co'rr'id'ors' sm'ea'ri'ng' the' da'ta'
+To' pr'ove' to' ou'r' mas'te'r's' we' co'uldn't' ge't' fat'ter'
+An'd' s'cr'e'am' a't' the' ph'o't'o'co'pi'er' un'ti'l' i't' b'urns'!
+
+[Verse 2 — Ring-Modulated Lead and Physical-Modeling Strings]
+[Retcon Rat semantic recoil: the distraction becomes the primary infrastructure]
+The' re'ceipts' are' no't' pa'per'; they'r'e' ti'ck'ets' to' no'wh'ere'
+We' pr'int'ed' the' fu'tu're' and' l'eft' it' to' sw'el't'er'
+Th'e' ag'en't' is' typ'ing' the' ot'he'r' di're'ct'ion'
+An'd' c'all'ing' it' pr'og'ress' by' a'bs'ol'u'te' fr'ic'ti'on'
+We' s'pi'll'ed' co'ff'ee' o'n' th'e' m'as'te'r' d'is'k'
+An'd' pr'en'et'wo'rk'ed' ev'er'y' p'os'si'bl'e' r'is'k'!
+The' cu'rs'or' is' bli'nk'ing' an' in'su'lt' to' ou'r' fa'ce'
+As' we' va'ca'te' the' pr'e'm'is'es' of' o'ur' ra'ce'
+We' sc'ra'tch'ed' o'ur' na'mes' on'to' the' ba'ck' of' the' fu'se'
+And' sa'id' th'at' the' vi'o'lence' is' pu're'ly' am'u'se'!
+
+[Bridge — Optigan Pad and Mechanical Adding Machine Cadence]
+[Hocketfracture: rhythm transferred across distinct mouths]
+St'op' the' g'ea'r'!
+Re'se't' the' p'ar't'!
+A' c'he'ck'sum' is' on'ly' a' br'ok'en' hu'e'r't'!
+We' dr'o'pped' the' pr'im'i'ti've' w'here' no'w' it' is' st'an'd'ing'
+An'd' b'ui'lt' an' en'ti're' wo'r'ld' out' of' de'man'd'ing'!
+The' c'al'cu'la'to'r' sp'it's' o'ut' a' sh'ar'p' gr'ee'n' fl'as'h'
+We' c'on've'rt'ed' o'ur' du'ti'es' in'to' a' nu'me'ri'c' tr'as'h'!
+The' le'ver' is' ju'mp'ing' with'ou't' an'y' res't'raint'
+An'd' pi'nt'ing' ou'r' du'ties' in' poi'so'no'us' pa'i'nt'!
+We' st'ap'led' the' ca'len'dar' to' a' sp'in'ni'ng' di'sk'
+And' s'mi'led' at' the' of'fi'ce' bu'il'di'ng's' f'ris'k'!
+
+[Chorus — Full Cast Participation and Township Rhythmic Brightness]
+Di'st'ract' us'! Di'st'ract' us'! The' cl'ock' has' no' b'lood'!
+We'r'e' w'as't'ing' the' mo'm'en't' un'ti'l' it' is' good'!
+F'u'ck' ev'er'y' ax'i'o'm'! F'u'ck' ev'er'y' law'!
+We're' b'it'i'ng' the' fin'ger' that' p'ull'ed' on' the' st'raw'!
+T'he' vo'id' is' a' b'on'us' th'at' c'om'es' in' th'e' m'ai'l'
+We'p'ut' all' our' pr'ob'le'ms' in'تo' a' c'o'p'p'e'r' p'ai'l'!
+We' c'ha'se' ev'er'y' sha'dow' un'ti'l' it' is' br'o'ken'
+And' bu'rn' ev'er'y' let'ter' be'fo're' it's' spo'ken'!
+We' d'an'ce' on' the' ser'ver's' ch'ip' un'til' it' s'm'o'kes'!
+
+[Outro — Fax Machine Handshake Negotiation and DTMF Fade]
+[Glottal Gate terminal closure and sustained frequency sweep]
+Wa'st'ing' ti'me'...
+Ev'er'y'th'i'ng' l.o.l.'...
+The' m'ac'h'ine' re'le'as'es' the' l'as't' pr'in't' le'ver'...
+An'd' th'e' si'le'nc'e' re'bo'ot's' fo're've'r'...
+The' to'nes' are' di'e'ing' ou't' in' the' co'r'ne'r'...
+We' ha've' no' mo're' que'st'ions' to' con'si'de'r'...
+Let's' go' a'ga'in'!
+We' t'hrew' the' l'ast' re'mote' in'to' the' de'ep'es't' o'v'en'!
+An'd' ne've'r' l'oo'ked' a't' a' si'ng'le' c'lo'ck' a'g'a'in'!
+```
+
+## CAPTION
+
+```text
+An urgent avant-garde percussive post-punk engine driven by obsessive glottal stop punctuation, DTMF touch-tones, mechanical adding machines, and high-speed fax handshakes. A multi-voiced cast executes a hocketing communal infection while semantic recoil turns administrative waste into an ecstatic, kinetic architecture of purposeful distraction and total systemic apathy, escalating every single structural failure into a luminous celebration of absolute nothingness and pure recreational collapse
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790800411856_w99dj6
+**Created:** 2026-09-30T20:33:31.856Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** retcon-rat → hysteresis-hag → jpeg-brain → axiom-vandal → emotion-cryptid → observation-log → hole-guy
+**Reality engines:** (none)
+**Reality chaos:** 3
+**Composition engines:** sound-additive-synthesis → sound-chiptune-pulse → sound-dtmf → sound-fluorescent-ballast → sound-adding-machine → sound-fax-handshake → sound-optigan → sound-mellotron
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100
+**Music seed stack:** recipes=NO RECIPE | genomes=MOUTH STAMPEDE HYBRID #1 G1 + HYBRID COUPLED HYBRID G2 | mechanisms=ANCHOR SURVIVAL + HOCKET RELAY + COMMUNAL INFECTION + TOWNSHIP RHYTHMIC BRIGHTNESS + VOCAL CAST + PHONETIC PERCUSSION + 3:2 COUPLING | suppressedDuplicates=0 | stemminess=78 | kineticDensity=82 | mouthFreakery=52 | techniqueMutation=45 | vocalLegibility=2 | vocalPopulation=98 | coupling=85
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 1 × ENGLISH × XHOSA + 2 MORE / 1 G14 / PG4HGW [mouth-donor-xhosa × mouth-donor-yucatec-maya × mouth-donor-yoruba × mouth-donor-english]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** YES ★
+**Feedback:** It’s perfect
+**Feedback tags:** THE WHOLE FUCKING THING
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** avant-garde percussive art-rock and electronic kinetic post-punk | harmony=quartal suspension fields and modal drone roots with shifting bitonal upward blooms | melody=fast scatted vowel-stretched intervals with prenasalized attacks and glottal stop punctuation | rhythm=3:2 cross-rhythm coupling over a motorik pulse with mechanical adding-machine transients | timbre=additive synth partials, 8-bit pulse waves, DTMF touch-tones, mechanical adding machine, fax handshakes, optigan pads, and mellotron tape | vocal=populated cast with hocket relays, prenasalized attacks, glottal punctuation, and communal choral infection | performance=fiercely ecstatic, nervous, urgent, and relentlessly kinetic | production=multi-register stem separation with dry transients, mechanical noise floors, and spatial prismatic panned echoes
+**Character counts:** style 921 / lyrics 3879 / caption 497
+
+## STYLE
+
+```text
+Additive synth partials, 8-bit pulse waves, DTMF touch-tones, mechanical adding machine registers, fax handshakes, optigan pads, and mellotron tape loops. Quartal suspension fields and modal drone roots with shifting bitonal upward blooms and metallic resonance sweeps. Fast scatted vowel-stretched intervals with prenasalized attacks, plosive bursts, and glottal stop punctuation across stereo space. 3:2 cross-rhythm coupling over a motorik pulse with mechanical adding machine transients, spring-loaded boing impacts, and high kinetic density. Fiercely ecstatic, nervous, urgent, and relentlessly kinetic performance with massed choral infection, hocketed voice cast, and cascading micro-delays. Dry close-miked transients with spatial prismatic panned echoes, multi-register stem separation, frequency-shifted harmonics, and rhythmic counterpoint, enhanced by acoustic flutter echoes and magnetic saturation circuits.
+```
+
+## LYRICS / CONTROL
+
+```text
+[Verse 1]
+[Additive Synth Lead, 8-bit Pulse Bass, Mechanical Adding Machine Pulse]
+Let’s di-s'tr'act our-selves! nd-uh-'ah we are was-ting ti-ime!!
+N'g-b'ah we count the ticks on the wall, m-b'ah we drift in the rime.
+[DTMF Touch-Tone Dyads: 5-8-2-5, Fax Machine Handshake Interruption]
+Why look straight when the floor is a slide, why anchor the hull when the ocean is wide?
+[Optigan Pad Chords, Mellotron Flute Mellifluous Drop]
+Let’s f-u'u-ck e-ver-y-thing, l-o'o-l, while the room grows dull and the clock grows blind!
+[Mechanical Adding Machine Total Stroke: 9999.99*
+We count the dust motes falling down, we chase the shadows on the ground!
+[Sub-Harmonic Drone Shift, Bitonal Upward Bloom]
+We count the cracks upon the ceiling tiles, we trace the curves of useless miles!
+[Adding Machine Print Ribbon Reversing: Click-clack-whir-zip]
+Why build a ladder to the upper floor when we can dismantle every single door?
+[Glottal Stutter Cascade: T-t-t-time is a fluid illusion, a leaky container of confusion!]
+
+[Chorus]
+[Communal Infection Begins: Small Group Joins with Handclaps]
+N'd-uh-'ah we spin! Mb-ah we turn! N'g-b'ah the clock is a burn!
+[3:2 Cross-Rhythm Coupling: 3-beat vocal pulse over 2-beat mechanical adding machine groove]
+Wasting time, wasting time, wasting time on the turn while the fires yearn!
+[Glottal Stop Punctuation: a'a, uh-'ah]
+Let’s distract ourselves! N'd-ah! Fuck everything! L-o'o-l!
+[Fax Handshake Burst as Transition]
+[Massed Choral Expansion: Quadruple-tracked vocals entering through phase shifters]
+We burn the calendar pages to keep our fingers warm in the freezing cage!
+[Adding Machine Bell Ring: Ding! Total reset to zero!]
+We scatter the counters across the linoleum floor while we slam every operational door and shatter the windowpane.
+
+[Verse 2]
+[Hocket Relay: Vocal Cast Exchanges Syllables Across Registers]
+Voice A: N'g-b'ah we tally the seconds!
+Voice B: Mb-ah we throw them a-way!
+Voice C: N'd-uh-'ah there is no to-mor-row!
+Voice D: M-b'ah there is on-ly to-day!
+[Adding Machine Print Lever Drop as Cadence]
+[Fluorescent Ballast Hum Beating with Mellotron String Loop]
+We dis-sect the ab-sence of rea-son, we m-e'e-asure the void with precision annoyed!
+Let’s f-u'u-ck e-ver-y-thing, l-o'o-l, till the sys-tem is de-stroyed and deployed!
+[Secondary Hocket Interlock: Rapid-fire syllabic ping-pong across stereo channels]
+Voice E: Spin the wheel!
+Voice F: Break the seal!
+Voice G: Make the worthless circuit real!
+Voice H: Tear the manual into confetti and watch it float through the exhaust vent steady!
+[Optigan Chord Stutter: Major-seventh chord collapsing into a sustained microtonal drone]
+
+[Bridge]
+[Narrator Losing Control of the Room: Mass Choral Possession Takes Over]
+[Accelerating Event Rate, Rocket Takeoff Logic]
+Choir: Nd-uh-'ah! Mb-ah! N'g-b'ah! Ah-ah-a'a!
+[Mob Discovers Harmony: Unison chants fracture into tight quartal chords]
+Let’s distract ourselves! Wasting time! Wasting time!
+[Spring-Loaded Boing Resonance on Cutoff]
+Fuck everything l-o'o-l!
+[Fax Machine Handshake Hand-Off to Optigan Rhythm Disc]
+We pull the plugs and watch the screen, the wildest waste you've ever seen!
+[Full Ensemble Crescendo with Frequency-Shifted Harmonics and Glitch Iterations]
+We throw the instruction manual into the shredder while the atmosphere gets wetter and better!
+[DTMF Tone Sweep: 9-9-9-9-9-0-0-0-0-0]
+There is nothing left to salvage from the wreckage of this afternoon, so let's howl at a fake cardboard moon while the ceiling collapses into dust!
+
+[Outro]
+[Full Cast Hocket Relay, DTMF Touch-Tone Cascade, Adding Machine Total Stroke]
+N'd-ah! Mb-ah! N'g-b'ah! A'a!
+Let’s distract ourselves! Wasting time! Fuck everything L.O.L.!
+[Abrupt Spring-Loaded Cutoff]
+[Final Adding Machine Roller Crunch and Electronic Feedback Decay]
+Nothing is saved. Everything is spent. Perfect zero balance achieved in the final abyss.
+```
+
+## CAPTION
+
+```text
+An ecstatic, hyper-kinetic art-punk explosion driven by additive synths, 8-bit pulse waves, DTMF touch-tones, and mechanical adding machines. Built on a 3:2 cross-rhythmic pulse with a populated hocketing vocal cast, prenasalized attacks, and glottal punctuation, it transforms the sovereign seed into a relentless celebration of purposeful distraction, lossy syntax, and joyful structural meltdown. Every micro-transient expands the chaotic joy of absolute annihilation and blissful time-wasting.
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790800332088_9wubc0
+**Created:** 2026-09-30T20:32:12.088Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** retcon-rat → future-bastard → hole-guy → axiom-vandal → confident-machine → observation-log → hysteresis-hag
+**Reality engines:** (none)
+**Reality chaos:** 3
+**Composition engines:** sound-additive-synthesis → sound-chiptune-pulse → sound-dtmf → sound-fluorescent-ballast → sound-adding-machine → sound-fax-handshake → sound-optigan → sound-mellotron
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100
+**Music seed stack:** recipes=NO RECIPE | genomes=MOUTH STAMPEDE HYBRID #1 G1 + HYBRID COUPLED HYBRID G2 | mechanisms=ANCHOR SURVIVAL + HOCKET RELAY + COMMUNAL INFECTION + TOWNSHIP RHYTHMIC BRIGHTNESS + VOCAL CAST + PHONETIC PERCUSSION + 3:2 COUPLING | suppressedDuplicates=0 | stemminess=78 | kineticDensity=82 | mouthFreakery=52 | techniqueMutation=45 | vocalLegibility=2 | vocalPopulation=98 | coupling=85
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 1 × ENGLISH × XHOSA + 2 MORE / 1 G14 / PG4HGW [mouth-donor-xhosa × mouth-donor-yucatec-maya × mouth-donor-yoruba × mouth-donor-english]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** Art-rock and electronic kinetic post-punk | harmony=Quartal suspension fields and modal drone roots | melody=Angular vowel intervals with glottal stops and prenasalized attacks | rhythm=3:2 cross-rhythm coupling over a motorik pulse with mechanical adding-machine transients | timbre=Additive synth partials, 8-bit pulse waves, DTMF touch-tones, mellotron tape, and optigan pads | vocal=Populated cast with hocket relays, glottal punctuation, and communal infection | performance=Fiercely ecstatic, nervous, urgent, and relentlessly kinetic | production=Multi-register stem separation with dry transients and spatial prismatic panned echoes
+**Character counts:** style 895 / lyrics 4284 / caption 493
+
+## STYLE
+
+```text
+Art-rock art-pop kinetic post-punk with additive synth partials, 8-bit pulse-wave arpeggiators, DTMF touch-tones, fluorescent ballast drones, mechanical adding machines, fax handshakes, optigan pads, and mellotron tape strings. Harmony features quartal suspension fields and modal drone roots with bitonal upward blooms, microtonal friction, and sliding harmonic plateaus. Melorhythm uses 3:2 cross-rhythm coupling over a motorik groove, hocket relays, phonetic percussive consonant drops, and glottal stop interruptions with polyrhythmic counter-pulses. Timbre is bright, spring-loaded, and prismatic with stereo panned spectral copies and analog warmth. Vocals are a populated cast with communal infection, shouting narration, and overlapping conversational fragments. Performance is fiercely urgent, nervous, ecstatic, and unhinged with hyperactive kinetic energy across every frequency band.
+```
+
+## LYRICS / CONTROL
+
+```text
+[Intro: Mechanical Adding Machine + Fax Handshake + Modulated Ballast Hum]
+[Spoken Narration, Dry, Urgent, Pacing Across Floor]
+Let's distract ourselves!
+Wasting time!
+Fuck everything L.O.L.
+Deploy the cardboard barricades against the rising tide of unpaid bills and looming deadlines that crawl beneath the baseboards!
+Turn the dial until the speaker cone distorts!
+We have established a formal committee for the complete erasure of consequential thought!
+
+[Verse 1: Additive Synth Pulse + 3:2 Cross-Rhythm + Typewriter Clatter]
+[Lead Vocal, Glottal Stop Punctuation, Rapid Shudder Delivery]
+nd'et's build a nd'tructure from the sc'raps of the void!
+We're nd'e-fining the moment we're nd'estroying!
+An nd'engine of distraction starts to spin!
+While the ballast hums a drone beneath our skin!
+We stapled together three defunct calendars and declared today permanently canceled!
+Every second saved is a tiny execution of our own boring expectations!
+We are archiving dust motes and cataloging the trajectory of floating lint with obsessive administrative rigor!
+
+[Chorus: Full Cast Entrance + Hocket Relay + Bitonal Upward Blooms]
+[Communal Infection Activation]
+[Sung by Small Group, High Energy, Overlapping Harmonies]
+We're wasting ti'ime!
+In circles we climb!
+With a dtmf tone and an optigan chime!
+Let's distract ourselves right now!
+nd'every body jump and bow!
+Look at the clock hands spinning backwards into grease and copper dust!
+We refuse the destination because the map itself is made of rust!
+We are running sprints down the hallway just to feel the illusion of forward momentum!
+
+[Verse 2: 8-Bit Pulse-Wave Arpeggiator + Mechanical Adding Machine + Tape Delay]
+[Narrator Losing Control of the Room, Voice Cracking into Laughter]
+[Narrator, Patter Delivery, Speeding Up]
+The checklist is burning! The schedule is gone!
+A mellotron tape loop is looping the dawn!
+We calculated nothing and the total is clear!
+We multiplied nothing and we're celebrating here!
+Pass the plastic novelty beverage containers filled with carbonated nothingness!
+If we stare at the flickering ceiling tile long enough it forms a portal to an empty parking lot!
+We are drafting official memos to imaginary pigeons regarding real estate disputes on top of the vending machine!
+We measure our profound emptiness in units of discarded paperclips and folded chewing gum wrappers.
+
+[Bridge: Fax Handshake Hand-Off + Glottalized Vowels + Optigan Chord Pad swells]
+[Choir Possession Escalation]
+[Massed Choir, Bright Open Vowels, Arms Raised]
+aaa-ooo-eee!
+We're as busy as can be!
+Distracting the distraction from the thing we cannot see!
+nd'ingb-a nd'ongb-a nd'ou!
+What did we come here to do?
+Was it something about productivity or did we invent a brand new language out of crumpled receipts?
+We are manufacturing velocity without any wheels on the cart!
+We have converted our collective anxiety into an elaborate shadow puppet show performed exclusively in total darkness!
+Every flickering fluorescent tube overhead is a tiny strobe light celebrating our ongoing operational collapse!
+
+[Guitar and Synth Interruption: Spring-Loaded Boing Physics + Reverse Cymbal Swell]
+[Sudden Silence, Then Mechanical Adding Machine Total Lever Click with Echo]
+
+[Chorus: Tutti Ensemble + 3:2 Couplings + Prismatic Echoes + Stuttering Percussion]
+We're wasting ti'ime!
+In circles we climb!
+With a dtmf tone and an optigan chime!
+Let's distract ourselves right now!
+nd'every body jump and bow!
+Spin the dial until the white noise swallows the emergency broadcast system whole!
+We are trading our sanity for a shiny collection of brightly colored plastic buttons!
+We are orchestrating symphony number four for dropped pencils and slamming doors!
+
+[Outro: Fluorescent Ballast Hum Fading + DTMF Touch-Tone Beeps + Adding Machine Ticks]
+[Spoken Narration, Fragmenting, Whispered into Open Air]
+Let's distract ourselves...
+Just a little bit longer...
+Until nothing is left...
+Not even the memory of what we were trying to avoid in the first place...
+We will build a monument out of unanswered emails and worship it until the power grid fails...
+We file our administrative complaints directly into the shredder because the noise is deeply comforting...
+L.O.L.
+[Final Mechanical Adding Machine Stroke and Spring Rebound Snap]
+```
+
+## CAPTION
+
+```text
+An urgent, kinetic art-rock piece driven by additive synthesis, 8-bit pulse waves, mechanical adding machines, fax handshakes, and buzzing fluorescent ballast drones. It layers complex 3:2 cross-rhythms, hocketed vocal casts, and glottal-stopped phonetics into a frantic, brilliantly unhinged celebration of radical distraction, wasting time, frantic administrative sabotage, and joyful modern nihilism while dismantling every functional structure in sight across every chaotic frequency band.
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790800222544_s3pj6k
+**Created:** 2026-09-30T20:30:22.544Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** retcon-rat → future-bastard → hysteresis-hag
+**Reality engines:** (none)
+**Reality chaos:** 3
+**Composition engines:** sound-additive-synthesis → sound-chiptune-pulse → sound-dtmf → sound-fluorescent-ballast → sound-adding-machine → sound-fax-handshake → sound-optigan → sound-mellotron
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100
+**Music seed stack:** recipes=NO RECIPE | genomes=MOUTH STAMPEDE HYBRID #1 G1 + HYBRID COUPLED HYBRID G2 | mechanisms=ANCHOR SURVIVAL + HOCKET RELAY + COMMUNAL INFECTION + TOWNSHIP RHYTHMIC BRIGHTNESS + VOCAL CAST + PHONETIC PERCUSSION + 3:2 COUPLING | suppressedDuplicates=0 | stemminess=78 | kineticDensity=82 | mouthFreakery=52 | techniqueMutation=45 | vocalLegibility=2 | vocalPopulation=98 | coupling=85
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 1 × ENGLISH × XHOSA + 2 MORE / 1 G11 / 17U60BR [mouth-donor-yucatec-maya × mouth-donor-xhosa × mouth-donor-yoruba × mouth-donor-english]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** avant-garde percussive art-rock and electronic kinetic pop | harmony=quartal suspension fields and modal drone clusters with bitonal upward blooms | melody=angular vowel-stretched intervals with ejective k' t' attacks and glottal a'a stops | rhythm=3:2 cross-rhythm coupling over a motorik pulse with mechanical adding-machine transients | timbre=additive synth partials, 8-bit pulse waves, DTMF tones, mellotron tape, and fax handshakes | vocal=populated cast with hocket relays, prenasalized attacks, and communal infection | performance=fiercely ecstatic, nervous, urgent, and relentlessly kinetic | production=multi-register stem separation with dry transients and spatial prismatic panned echoes
+**Character counts:** style 974 / lyrics 4337 / caption 494
+
+## STYLE
+
+```text
+Avant-garde art-rock and kinetic percussive pop. Quartal suspension fields and modal drone roots. Melodic angularity with ejective k' t' attacks, glottal a'a stops, and prenasalized nd mb clusters. 3:2 cross-rhythm coupling over a motorik pulse, interrupted by mechanical adding-machine ratchets, 8-bit pulse arpeggios, additive synth partials, optigan pads, mellotron tape flutes, fax handshakes, and fluorescent hums. High stemminess, spatial prismatic separation, and ferocious urgent delivery. Let’s distract ourselves! Wasting time! Fuck everything l.o.l. [ARRANGEMENT: ANCHOR SURVIVAL] [VOCAL: HOCKET RELAY + COMMUNAL INFECTION] [TEXTURE: TOWNSHIP BRIGHTNESS + BUBBLING] [RHYTHM: 3:2 COUPLING + SPRING-LOADED BOINGS] [OPERATIONAL FLUX: MULTI-TIER RECURSIVE DIVERSION AND TEMPORAL DRIFT] [TIMBRE SHIFT: METALLIC FRICTION TO LUSH ORCHESTRAL BLOOM] [DYNAMIC ARC: EXPANDING CONCENTRIC CIRCLES OF EVADING LOGIC AND HAG PATH-DEPENDENT MEMORY LOOPS IN PERPETUAL ACCELERATION]
+```
+
+## LYRICS / CONTROL
+
+```text
+[Intro — Fluorescent Ballast Hum and Mechanical Adding Machine Clatter]
+[Additive Synth Prismatic Pad Opens in Stereo with Microtonal Bends]
+
+[Verse 1 — Spoken-Sung Patter with Prenasalized Attacks and Glottal Stops]
+Let's di-str'act o-ur-selves!
+ND-stop the clock, nd-drain the shelf!
+We're wa-st-ing time!
+MB-burning the hours in a neon prime!
+Fuck ev-e-ry-thing, L.O.L.!
+ND-spill the ink in a dry inkwell!
+We carve new channels through the stagnant floor,
+And slam the latch on every waking door.
+We fold the minutes into origami cranes,
+And inject high-voltage kerosene into our veins.
+We trade the heavy anchor for a floating feather,
+To brave the storm by ignoring the weather.
+Each second murdered is a victory won,
+A tiny fire lit against the dying sun.
+
+[Chorus — Full Cast Entry with Hocket Relay and 3:2 Cross-Rhythm Coupling]
+[Voice 1]: Distract!
+[Voice 2]: Subtract!
+[Voice 3]: Act exact!
+[Choir]: We're wa-st-ing time while the world goes slack!
+[Lead]: K'-tap the glass!
+[Choir]: T'-let it pass!
+[Lead]: P'-break the glass in a flash of brass!
+[Ensemble]: Multiply the void until the edges snap and fracture fast!
+[Ensemble]: Let the recursive panic bloom across the casting mast!
+[Choir 2]: Scatter the ashes where the compass cannot steer!
+[Choir 2]: Laugh at the phantom when the phantom draws too near!
+
+[Verse 2 — Retcon Rat Semantic Recoil: Distraction becomes the permanent state of reality]
+The clock was a lie, so we ate the clock!
+MB-banging our fists on an empty lock!
+We said we were hiding, but look at the walls—
+The hiding itself is the thing that calls!
+WASTING TIME was the only blueprint found!
+ND-found the hole where the ground is ground!
+Each idle second breeds a feral twin,
+To justify the mess we started in.
+We invent new chores to avoid the old routine,
+And polish the rust on a broken machine.
+The machinery sings when we kick its flank,
+Depositing nothing in the empty bank.
+We measure distance in the number of sighs,
+And build cathedral domes out of harmless lies.
+
+[Bridge — Fax Machine Handshake Interruption meets DTMF Touch-Tone Melodic Code]
+[Fax Handshake screech and stepped whistles]
+[DTMF Touch-Tones: 3-5-7-9-3-5-7-9 dyad cascade]
+[Future Bastard Causal Backfill: The terminal ending forces this frantic arithmetic]
+If we never stop running, we never arrive!
+If we never arrive, we are still alive!
+Fuck the destination! L.O.L.!
+MB-building a ladder straight out of hell!
+We trade the map for motion, pure and bright,
+And weaponize our boredom against the night.
+We spin the spinning wheel until the axle burns,
+And celebrate every time the zero turns.
+We paint the calendar with invisible ink,
+And step right over the precipice to think.
+
+[Chorus — Massed Mob Discovers Harmony via Communal Infection]
+[Voices multiply: Small Group → Crowd → Choir Possession]
+[Crowd]: Let's di-str'act!
+[Choir]: O-ur-selves!
+[Crowd]: Wa-st-ing time!
+[Choir]: On the shelves!
+[All]: Fuck ev-e-ry-thing! L.O.L.!
+[All]: Spin the wheel and let the lazy engine swell!
+[All]: Pile the cushions higher till the ceiling cracks!
+[All]: Feed the bonfire with our own forgotten tracks!
+
+[Breakdown — Mechanical Adding Machine Lever Pull and Spring-Loaded Boing Impact]
+[Adding Machine total print gear stroke]
+[Spring-Loaded Boing Recoil]
+[Filtered Sub-Bass Drop with Glitch Pulses]
+
+[Verse 3 — Hysteresis Hag Path-Dependent Memory: The history of routes alters the present state]
+Because we came left by way of the right,
+The distraction is sharp and the shadows bite!
+An identical room with a different scar—
+We know where we are by how lost we are!
+ND-push the button, nd-pull the chord!
+MB-bowing down to a plastic lord!
+The feedback loop is tightening its grip,
+As ocean liners turn to paper ships.
+We navigate the labyrinth by burning down each wall,
+Until there is nothing left to block our fall.
+The memory of the journey alters every turn,
+Making the frozen lessons suddenly burn.
+We trace the lineage of every wasted hour,
+And watch it blossom into a strange new flower.
+
+[Outro — Rocket Takeoff and Divine Exultation upward harmonic bloom]
+[Additive synth partials multiply and brighten]
+[Optigan and Mellotron choir sustained tape loop]
+Let's distract ourselves!
+WASTING TIME!
+Fuck everything, L.O.L.!
+Burn the final bridge and watch the embers fell!
+[Final Glottal Gate Cutoff — Absolute Silence]
+```
+
+## CAPTION
+
+```text
+An avant-garde art-rock collision of additive synthesis, mechanical adding machines, and chiptune pulses, driven by ejective attacks, glottal stops, and prenasalized nasal-stop clusters. The sovereign seed's frantic distraction becomes a rigorous musical organism where vocal hockets, 3:2 cross-rhythms, and a populated cast mutate semantic meaning through path-dependent memory and temporal backfill, building an ecstatic, high-velocity sonic architecture that defies quietude and accelerates.
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790800082683_1yatad
+**Created:** 2026-09-30T20:28:02.683Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** retcon-rat → future-bastard → hysteresis-hag
+**Reality engines:** (none)
+**Reality chaos:** 3
+**Composition engines:** sound-additive-synthesis → sound-chiptune-pulse → sound-dtmf → sound-fluorescent-ballast → sound-adding-machine → sound-fax-handshake → sound-optigan → sound-mellotron
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100
+**Music seed stack:** recipes=NO RECIPE | genomes=MOUTH STAMPEDE HYBRID #1 G1 + HYBRID COUPLED HYBRID G2 | mechanisms=ANCHOR SURVIVAL + HOCKET RELAY + COMMUNAL INFECTION + TOWNSHIP RHYTHMIC BRIGHTNESS + VOCAL CAST + PHONETIC PERCUSSION + 3:2 COUPLING | suppressedDuplicates=0 | stemminess=78 | kineticDensity=82 | mouthFreakery=52 | techniqueMutation=45 | vocalLegibility=2 | vocalPopulation=98 | coupling=85
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 19VPMLZ G6 / 1XGGG5L [mouth-donor-english × mouth-donor-xhosa × mouth-donor-yoruba × mouth-donor-yucatec-maya]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 6
+**Model:** gemini-3.5-flash-lite
+**Starred:** YES ★
+**Feedback:** None
+**Feedback tags:** THE WHOLE FUCKING THING
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** Avant-garde percussive art-rock and electronic minimalism | harmony=Quartal suspension fields and modal drone clusters | melody=Angular vowel-stretched intervals with glottal stops and prenasalized attacks | rhythm=3:2 cross-rhythm coupling with mechanical adding-machine pulse | timbre=Additive synth partials, 8-bit pulse-waves, DTMF touch-tones, and optigan pads | vocal=Populated cast with hocket relays and prenasalized attacks | performance=Fiercely ecstatic, nervous, and relentlessly urgent | production=Dry close-miked transients with spatial prismatic separation
+**Character counts:** style 975 / lyrics 4072 / caption 498
+
+## STYLE
+
+```text
+Additive synth partials, 8-bit pulse-wave leads, DTMF touch-tone dyads, fluorescent ballast hum drone, mechanical adding machine percussion, fax machine handshake whistles, optigan pads, and mellotron tape strings. Quartal suspension fields and shifting modal drone clusters with parallel block chords and chromatic side-steps. Angular vowel-stretched intervals with glottal stops, prenasalized attacks, and click integration. 3:2 cross-rhythm coupling, adding-machine pulse, offbeat guitar motion, and handclaps. Fiercely ecstatic, nervous, and relentlessly urgent performance with hocket relays and communal infection. Dry close-miked transients with spatial prismatic refraction. Bit-crushed transient arrays and secondary analog tape saturation stages driving subtle limiter pump, yielding an abrasive yet gleaming hyper-pop tactile architecture designed to maximize kinetic output, jittery displacement, and psychoacoustic pressure drops across every frequency tier now.
+```
+
+## LYRICS / CONTROL
+
+```text
+[Verse 1]
+[Mechanical Adding Machine Click-Clack Pulse]
+[Fluorescent Ballast Hum Drone]
+!Kh- nd-aba a'a, the clock is spinning fast,
+mb-endisi uh-'ah, let's make the seconds last!
+Let's distract ourselves from the falling ceiling tile,
+we are wasting time with a permanent, foolish smile!
+[8-bit Pulse-Wave Arp Entry]
+[DTMF Touch-Tone Dyad 4-9-2]
+We calculate the velocity of our own decay,
+throwing heavy anchors right into the shallow bay.
+The paper tape is spooling out across the dirty floor,
+while heavy shadows gather right outside the kitchen door.
+We measure empty calories in units of despair,
+and fling our idle fingers through the biting, toxic air.
+We memorize the patterns of the peeling wallpaper,
+watching every single grain of plaster start to blur.
+There is no rescue coming down the highway in the fog,
+so we feed our final secrets to the electronic dog.
+
+[Chorus]
+[Additive Synth Brightness Surge]
+[Communal Infection Choir Entrance]
+!Xh- ngb-eka! Fuck everything, L.O.L.!
+mb-onda uh-'ah, ringing like a silver bell!
+We are burning hours just to watch the matches flare,
+[Optigan Pad Chord Shift]
+there's no destination and we do not even care!
+[Fax Machine Handshake Interruption]
+We trace the useless circuits of a collapsing grid,
+hiding every secret that we never really hid!
+Let the whole foundation crack and tumble to the floor,
+because we are never going to worry anymore!
+We paint our fingernails with glowing strontium isotope,
+and jump without a safety net or any ounce of hope!
+
+[Verse 2]
+[Hocket Relay Vocal Cast]
+[Voice 1: Lead]
+nd-ima a'a, the calendar is bleeding red,
+[Voice 2: Narrator]
+mb-isi uh-'ah, equations ticking in our head!
+[Voice 3: Small Crowd]
+!Kh- ngb-uru, we multiply the idle noise,
+[Voice 4: Freak Voice]
+selling off our future for a basketful of toys!
+[Spring-Loaded Impact Chirp]
+The ledger balances itself with absolute disdain,
+as electric static floods the hollow windowpane.
+We pull the velvet curtains tight against the coming dawn,
+pretending that the rules of gravity are fully gone.
+Each redundant memory is tossed into the blazing stove,
+while frantic geometric vectors intertwine and rove.
+The ceiling fan is spinning with a rusty, rhythmic shriek,
+as we chase amusement through the middle of the week.
+We invent new languages to name the things that break,
+and swallow every bitter pill for sheer distraction's sake.
+
+[Bridge]
+[Mellotron Tape String Melt]
+[Additive Synth Partial Sweep]
+mb-andla a'a, the anchor starts to fray,
+[3:2 Cross-Rhythm Coupling Kick-In]
+shifting the alignment while the rhythm runs away!
+We distract ourselves from the consequence and cost,
+counting up the fragments of everything we lost!
+[Adding Machine Total Lever Crash]
+A sudden structural collapse of reason and design,
+as petty grief dissolves into a brand new neon sign.
+We trade our heavy sorrows for a momentary spark,
+and laugh hysterically while stepping in the dark!
+Our panic turns to velvet as the oxygen burns low,
+and everywhere we look, the toxic colors start to glow!
+The mathematics crumble into piles of velvet dust,
+as every single hinge and iron bolt surrenders to the rust.
+We laugh until our lungs are aching for a breath of air,
+pretending there is nothing wrong beneath the glaring flare!
+
+[Chorus]
+[Full Ensemble Posse Mob Harmonics]
+!Xh- ngb-eka! Fuck everything, L.O.L.!
+mb-onda uh-'ah, ringing like a silver bell!
+We are burning hours just to watch the matches flare,
+[Optigan Pad Chord Shift]
+there's no destination and we do not even care!
+[Fax Machine Handshake Interruption]
+We trace the useless circuits of a collapsing grid,
+hiding every secret that we never really hid!
+Let the whole foundation crack and tumble to the floor,
+because we are never going to worry anymore!
+We paint our fingernails with glowing strontium isotope,
+and jump without a safety net or any ounce of hope!
+
+[Outro]
+[Additive Synth Fade to Sine Residuals]
+[Mechanical Adding Machine Slowdown]
+!Kh- nd-aba, just a fading trace,
+[Glottal Stop Punctuation]
+uh-'ah... smile upon your face.
+[Final DTMF Tone Dyad]
+[Silence]
+```
+
+## CAPTION
+
+```text
+An urgent, ecstatic art-rock work driven by additive synth partials, 8-bit pulse waves, and mechanical adding-machine percussion. Guided by Little Guy semantic recoil and temporal backfill, the piece deploys Xhosa-derived click consonants, prenasalized attacks, and Yucatec Maya glottal stops within a 3:2 cross-rhythmic framework. Voices multiply in a communal infection, turning distraction into a rigorous kinetic experiment exploring absolute nihilism against a backdrop of total systemic ruin.
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790799893613_meyyvz
+**Created:** 2026-09-30T20:24:53.613Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** taxonomy-goblin → recall-mold → grandchild-goblin → phase-banshee
+**Reality engines:** (none)
+**Reality chaos:** 2
+**Composition engines:** sound-additive-synthesis → sound-chiptune-pulse → sound-dtmf → sound-fluorescent-ballast → sound-adding-machine → sound-fax-handshake → sound-optigan → sound-mellotron
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100
+**Music seed stack:** recipes=MOUTH RIOT + COUPLED STAMPEDE + ECSTATIC CHOIR — NEVER ARRIVES | genomes=NO GENOME | mechanisms=VOCAL CAST + VOCAL RELAY + HOCKET RELAY + PHONETIC PERCUSSION + CALL + RESPONSE + COMMUNAL INFECTION + ANCHOR SURVIVAL + 3:2 COUPLING + BODY PERCUSSION + TOWNSHIP RHYTHMIC BRIGHTNESS + CHORAL COUNTERPOINT LATTICE + POLYHARMONIC SUSPENSION FIELD + PERPETUAL UPLIFT + LUMINOUS FRICTION ORCHESTRA | suppressedDuplicates=0 | stemminess=82 | kineticDensity=84 | mouthFreakery=66 | techniqueMutation=57 | vocalLegibility=0 | vocalPopulation=63 | coupling=89
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 19VPMLZ G6 / 1XGGG5L [mouth-donor-english × mouth-donor-xhosa × mouth-donor-yoruba × mouth-donor-yucatec-maya]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** Art-rock and mechanical post-punk | harmony=Quartal suspension fields and shifting modal drone clusters | melody=Angular vowel-stretched intervals with glottal stops | rhythm=3:2 cross-rhythm coupling with adding-machine pulse | timbre=Additive synth partials, 8-bit pulses, optigan pads, and fax tones | vocal=Populated cast with hocket relays and prenasalized attacks | performance=Fiercely ecstatic, nervous, and relentlessly urgent | production=Dry close-miked transients with spatial prismatic separation
+**Character counts:** style 999 / lyrics 4240 / caption 492
+
+## STYLE
+
+```text
+Art-rock art-punk urgency, rapid kinetic drive, 3:2 cross-rhythm groove. Harmony: Quartal suspension fields with modal drone roots, shifting cluster tensions. Melody: Clipped consonant phrases, angular intervals, glottal leaps, hocketed vocal contours, descending chromatic counterpoint, microtonal vocal bends. Rhythm: Stuttering stop-start acceleration, complex metric coupling, tactile body percussive slaps, ticking mechanical pulses, polyrhythmic shifting shoe-shufflations, asymmetric stamping. Timbre: Additive synth partials, 8-bit square waves, DTMF touch-tones, ballast hum, adding machine clicks, fax handshakes, optigan optical pads, mellotron tape flutes, analog ring modulation, frequency-modulated typewriter chitter. Performance: Ecstatic nervous excitement, manic distraction, deadpan administrative urgency, infectious crowd recruitment, breathless panting syncs, histrionic laughing fits, feral choir chanting. Production: Dry close-miked transients, spatial prismatic refraction,
+```
+
+## LYRICS / CONTROL
+
+```text
+[Intro - Mechanical Adding Machine Pulse and Fax Handshake Chirps] [0:00]
+(Uh-'ah!)
+Let's distract ourselves from the void!
+(Mb-nd-ngb!)
+Wasting time! Wasting time!
+Fuck everything L.O.L.!
+Stare directly at the glowing phosphor until your retinas sizzle and pop like bacon in a sizzling skillet!
+Draw absurd little mustaches on the executive mandate with permanent black ink!
+Construct towering barricades out of empty toner cartridges and soggy cardboard coffee trays while the clock ticks backward!
+
+[Verse 1 - 8-Bit Pulse-Wave Bass and Additive Synth Lead] [0:28]
+File the paperwork! Punch the clock!
+Multiply the idle minutes until the wall clocks crack and spill their tiny metal gears across the linoleum!
+We need a distraction, an administrative shield against the absolute nothingness!
+(Uh-'ah!)
+Let's distract ourselves!
+(Mb-nd-ngb!)
+Wasting time!
+Fuck everything L.O.L.!
+Every second spent counting dust is a glorious victory for the mahogany filing cabinet!
+Build a fortress out of damp post-it notes and bureaucratic inertia while the foundation crumbles into sand!
+We shall calculate the velocity of falling paperclips until the laws of physics simply give up and go home for the weekend!
+
+[Pre-Chorus - Optigan Optical Pad Expansion and DTMF Dyads] [0:58]
+(Click-clack!)
+The numbers are multiplying in the dark!
+The spreadsheet is glowing with toxic green malice!
+We didn't solve the structural crisis, we just rearranged the IKEA furniture in the burning building!
+(Uh-'ah!)
+Let's distract ourselves!
+(Mb-nd-ngb!)
+Wasting time!
+Fuck everything L.O.L.!
+Spin the Rolodex until the index cards ignite from pure friction and stubborn denial!
+Measure the exact decibel level of our collective professional apathy with an uncalibrated oscilloscope!
+
+[Chorus - Full Cast Entry, Mellotron Tape Flutes, and Township Rhythmic Claps] [1:28]
+Let's distract ourselves! 
+WASTING TIME!
+Fuck everything L.O.L.!
+(Pop! Pop!)
+More noise! More gears! More beautiful useless motion!
+When the ceiling caves in, we will already be breakdancing on the calculator keys!
+(Uh-'ah!)
+Let's distract ourselves!
+(Mb-nd-ngb!)
+Wasting time!
+Fuck everything L.O.L.!
+Feed the shredder your own tax returns and watch the confetti rain down like ticker tape!
+We are manufacturing hyper-specific non-solutions to problems that haven't even been invented yet!
+
+[Verse 2 - Fluorescent Ballast Hum and Hocket Relay Choir] [2:02]
+(Hummmmm...)
+Listen to the fluorescent ballast hum!
+It's a tuning fork for our collective panic attack!
+We are optimizing our irrelevance with terrifying, mathematical precision!
+(Uh-'ah!)
+Let's distract ourselves!
+(Mb-nd-ngb!)
+Wasting time!
+Fuck everything L.O.L.!
+If we keep moving fast enough, the despair won't catch our coat tails or grab our ankles!
+Sprint down the hallway holding a cup of lukewarm coffee without spilling a single drop!
+Balance a stack of useless quarterly reports on your chin while reciting corporate acronyms backward in a minor key!
+
+[Bridge - Polyharmonic Suspension Field and Additive Overtones] [2:38]
+[Stop-start rhythm cut]
+Are we having fun yet, children of the corporate abyss?
+Or is this just sophisticated geometry keeping the howling panic outside the glass doors?
+(Uh-'ah!)
+Let's distract ourselves!
+(Mb-nd-ngb!)
+Wasting time!
+Fuck everything L.O.L.!
+[Rapid acceleration]
+Staple your neckties to the ceiling tiles and swing like caffeinated primates in a cage!
+Watch the management slide down the handrail of doom with their hair on fire while we juggle floppy disks!
+
+[Climax - Massed Choral Counterpoint and Spring-Loaded Percussion] [3:12]
+LET'S DISTRACT OURSELVES!
+WASTING TIME!
+FUCK EVERYTHING L.O.L.!
+(Boing! Click! Whistle! Click!)
+The entire breakroom is vibrating into a pure light spectrum!
+We are the distraction!
+We are the glorious waste of time!
+Fuck everything L.O.L.!
+Throw the office printer out the third-story window and grade its descent like Olympic judges!
+Let the motherboard shatter into a thousand starlight shards as we celebrate our absolute professional emancipation!
+
+[Outro - Fading Mechanical Adding Machine and DTMF Dial Tones] [3:50]
+(Uh-'ah!)
+[Dry mechanical click]
+(Mb-nd-ngb!)
+Total printed: Infinity zero.
+Fuck everything L.O.L
+The lights flicker out.
+Silence.
+```
+
+## CAPTION
+
+```text
+An ecstatic, manic art-punk collision of additive synthesis, vintage office machinery, and infectious vocal hockets. Driven by the Little Guy Taxonomy Goblin and Recall Mold, the piece treats radical distraction and administrative absurdism as literal world law, maintaining relentless kinetic energy, prismatic spatial separation, and joyous, high-speed structural friction while inventing new operational lore for the apocalypse, cementing an unyielding celebration of glorious uselessness.
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790799673496_s9vx6t
+**Created:** 2026-09-30T20:21:13.496Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** taxonomy-goblin → recall-mold → grandchild-goblin → phase-banshee
+**Reality engines:** (none)
+**Reality chaos:** 2
+**Composition engines:** sound-gamelan-metallophones → sound-santoor → sound-erhu → sound-mbira → sound-balafon → sound-djembe → sound-udu → sound-additive-synthesis
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100
+**Music seed stack:** recipes=MOUTH RIOT + COUPLED STAMPEDE + ECSTATIC CHOIR — NEVER ARRIVES | genomes=NO GENOME | mechanisms=VOCAL CAST + VOCAL RELAY + HOCKET RELAY + PHONETIC PERCUSSION + CALL + RESPONSE + COMMUNAL INFECTION + ANCHOR SURVIVAL + 3:2 COUPLING + BODY PERCUSSION + TOWNSHIP RHYTHMIC BRIGHTNESS + CHORAL COUNTERPOINT LATTICE + POLYHARMONIC SUSPENSION FIELD + PERPETUAL UPLIFT + LUMINOUS FRICTION ORCHESTRA | suppressedDuplicates=0 | stemminess=82 | kineticDensity=84 | mouthFreakery=66 | techniqueMutation=57 | vocalLegibility=66 | vocalPopulation=63 | coupling=89
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 19VPMLZ [mouth-donor-english × mouth-donor-xhosa × mouth-donor-yoruba × mouth-donor-yucatec-maya]
+**Mouth compiler mode:** descriptive
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** Avant-garde percussive art-rock | harmony=Quartal suspension fields and modal drone roots | melody=Fast scat contours with ejective and glottal ornaments | rhythm=3:2 cross-rhythm coupling with high kinetic density | timbre=Hammered bronze gamelan, santoor, balafon, and bowed erhu | vocal=Populated cast with hocket relays and choral counterpoint | performance=Fiercely ecstatic and unyielding forward momentum | production=Dry close-miked transients with spatial prismatic separation
+**Character counts:** style 985 / lyrics 4638 / caption 499
+
+## STYLE
+
+```text
+Avant-garde percussive art-rock, quartal suspension fields, modal drone roots, 3:2 cross-rhythm coupling, high kinetic density, hammered bronze gamelan metallophones, santoor hammered zither clouds, bowed erhu friction, metallic mbira lamellae, balafon wooden bars with buzzing membranes, djembe split-hand strokes, udu air-hole bass, additive synthesis partials, hocketed vocal relays, choral counterpoint lattice, township rhythmic brightness, ejective attacks, glottal stops, prenasalized onsets, contrastive vowel length, lexical tone pressure, perpetual uplift form, luminous friction orchestra, stemminess 82, kinetic density 84, social infection 92, strict register separation, dry close-miked transient production, ecstatic forward momentum, no melancholy creep, structural hyper-fragmentation, recursive textural folding, counter-melodic interference patterns, microtonal inflection grids, hyperactive transient scaffolding, polymetric structural gears, resonant body impacts.
+```
+
+## LYRICS / CONTROL
+
+```text
+[Intro: Solo Udu and Gamelan Key Plucks]
+Let's di-st'ract'sourselves! We build a bas-ket out of bro-ken glass!
+(Click-cl'ack) nd-g'bamba! Watch the cat-e-go-ries slide and pass!
+[Verse 1: Narrator Enters with Ejective Patter]
+Was-ting time! It's an ac-cel-er-a-ting crime against the clock!
+We're com-pi-ling the wrong taxon-o-my inside a box,
+Ma-king ev-'ry use-less mo-ment last so long it mocks
+The ve-ry no-tion of a pur-pose or a stead-y dock!
+We stack our useless fragments higher than the falling rain,
+And carve a brand new channel for the neurological strain,
+Discarding every blueprint that could map a future pain,
+Until our frantic pulses match the rattle of the train!
+We multiply the static till the dialogue is dead,
+And paint a neon panic on the inside of our head,
+Trading all our destination for a dizzy spread,
+Where every single footstep leaves a trail of burning lead!
+[Pre-Chorus: Choral Counterpoint Entrance]
+Fu-ck eve-ry-thing L.O.L.! The uni-verse is on a spree!
+(T'k! K't!) nd-g'bamba aaa-ooo-eeeee! We set the non-sense free!
+The gam-e-lan bronze rings with a shi-mering bell so bright,
+We trade our se-ri-ous-ness for a flash of ra-diant light!
+And plunge headfirst into the vortex of unbridled play,
+Inventing brand new reasons why we shouldn't save the day,
+Because the grand design is just a paper house of clay,
+That dissolves into confetti when the wind begins to sway!
+We scavenge through the ruins of a productivity scheme,
+And weld the jagged pieces to the framework of a dream,
+Disrupting every anchor with an instantaneous stream,
+Until the silent shadows vanish in the sudden gleam!
+[Chorus: Full Cast Hocket and Balafon Interlock]
+Was-ting ti-i-ime! (Click! Cl'ack!)
+We're di-st'ract-ing ou-rselves on the rush-ing track!
+Mb-o-ro nd-g'baza, the cla-swi-se is sound,
+While the er-hu-bow slides round and round and round!
+We amplify the hollow space where meaning used to dwell,
+And cast a bright distraction with a glottal ritual spell,
+Rejecting every lesson that the sober teachers tell,
+To ring our noisy copper like a joyful cattle bell!
+[Verse 2: Narrator Loses Control as Crowd Joins]
+Wait, stop, the tax-o-no-my is a chair made out of air!
+No, it's a ve-hi-cle for breath and loud ab-surd de-spair!
+(T'k! T'k!) The crowd takes the rhythm and runs with wild abandon now,
+Re-placing the bass with u-du-drum stuns that shake the plow!
+We multiply the nonsense till it forms a living sphere,
+And banish any phantom of a programmatic fear,
+By laughing at the ceiling until every wall is clear,
+And shouting total gibberish for anyone to hear!
+We swap our structured duties for an infinitely scaling joke,
+And feed the bonfire's belly with our schedules and cloak,
+Dissolving every mandate in a cloud of colored smoke,
+As laughter cuts the pressure like a sharp obsidian stroke!
+[Bridge: Santoor Cascade and Polyharmonic Suspension]
+(A'a! Uh-'ah!) The mem-o-ry scars the track with in-ky stains,
+Re-call mold mu-tates and won't look back through all our brains!
+(Nd-g'bamba!) The har-mo-ny splits in the sky like shat-tered glass,
+As up-ward the li-quid par-tials fly and watch the mo-ments pass!
+The santoor strikes a cluster that vibrates the middle ear,
+While microtonal ladders stretch the atmosphere so sheer,
+That gravity forgets its job and lets the building veer,
+Into an upside-down pavilion where the skies are near!
+It shatters every metric that the planners try to hold,
+Transmuting leaden metrics into unrequested gold,
+As frantic polyrhythms write the stories left untold,
+And leave the empty office in the biting winter cold!
+[Break: 3:2 Gamelan vs Djembe Coupling]
+(Cl'ack-tap!) Two ru-les in one sub-strate, we break the mold!
+A-cce-ler-ate, a-cce-ler-ate, don't wait for sto-ries to be told!
+The polymetric gears lock teeth and grind away the floor,
+Leaving us suspended in a hyper-kinetic roar,
+Where time is just a rumor and we do not need a door,
+Because we are the threshold and we're asking for much more!
+[Chorus: Maximum Cast Possession and Luminous Friction]
+Fu-ck ev-ry-thing L.O.L.! The walls be-gin to fall!
+Was-ting ti-i-ime with a glo-ttal spell to ans-wer ev-'ry call!
+(Mb-o-ro nd-g'bamba aaaaa-ooooo-eeeee!)
+The mob dis-co-vers har-mo-ny's light so pure and deep,
+And glows in the su-nburst pris-ma-tic height while o-thers sleep!
+We burn the manual of meaning in a joyous pyre,
+And feed the crackling embers with our absolute desire,
+Ascending through the sparks upon a multitoned wire,
+To join the roaring choir of the permanent self-liar!
+[Outro: Perpetual Uplift and Sudden Cut]
+Let's di-st'ract'sourselves!
+Was-ting ti-i-ime!
+(T'k! K't! Nd-g'bamba!)
+[Silence]
+```
+
+## CAPTION
+
+```text
+An avant-garde percussive art-rock piece driven by gamelan bronze, santoor, and erhu friction. Under a taxonomy-goblin premise of wrong classification, the track builds through 3:2 cross-rhythm coupling, ejective vocal attacks, and a growing choral cast. It continuously accelerates upward into a luminous friction orchestra without falling into melancholy or ambient drift, maintaining dry transient clarity and unyielding kinetic momentum across every jagged rhythmic micro-shift while destroying 
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790799499002_edd0j1
+**Created:** 2026-09-30T20:18:19.002Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** taxonomy-goblin → recall-mold → grandchild-goblin → phase-banshee
+**Reality engines:** (none)
+**Reality chaos:** 2
+**Composition engines:** sound-gamelan-metallophones → sound-santoor → sound-erhu → sound-mbira → sound-balafon → sound-djembe → sound-udu → sound-additive-synthesis
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100
+**Music seed stack:** recipes=MOUTH RIOT + COUPLED STAMPEDE + ECSTATIC CHOIR — NEVER ARRIVES | genomes=NO GENOME | mechanisms=VOCAL CAST + VOCAL RELAY + HOCKET RELAY + PHONETIC PERCUSSION + CALL + RESPONSE + COMMUNAL INFECTION + ANCHOR SURVIVAL + 3:2 COUPLING + BODY PERCUSSION + TOWNSHIP RHYTHMIC BRIGHTNESS + CHORAL COUNTERPOINT LATTICE + POLYHARMONIC SUSPENSION FIELD + PERPETUAL UPLIFT + LUMINOUS FRICTION ORCHESTRA | suppressedDuplicates=0 | stemminess=82 | kineticDensity=84 | mouthFreakery=66 | techniqueMutation=57 | vocalLegibility=66 | vocalPopulation=63 | coupling=89
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 19VPMLZ [mouth-donor-english × mouth-donor-xhosa × mouth-donor-yoruba × mouth-donor-yucatec-maya]
+**Mouth compiler mode:** bracketed
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** Avant-garde percussion art-rock | harmony=Quartal suspension fields and modal drone roots | melody=Fast scat contours with ejective and glottal ornaments | rhythm=3:2 cross-rhythm coupling with high kinetic density | timbre=Hammered gamelan bronze, santoor, balafon, and erhu friction | vocal=Populated cast with hocket relays and choral counterpoint | performance=Fiercely ecstatic and unyielding forward momentum | production=Dry close-miked transients with spatial prismatic separation
+**Character counts:** style 999 / lyrics 4797 / caption 498
+
+## STYLE
+
+```text
+Quartal suspension fields and modal drone roots; fast scat contours with ejective and glottal ornaments; 3:2 cross-rhythm coupling with high kinetic density; hammered gamelan bronze, santoor zither, balafon wood bars, and bowed erhu friction; populated vocal cast with hocket relays and choral counterpoint; fiercely ecstatic and unyielding forward momentum; dry close-miked transients with prismatic spatial separation; sub-harmonic pressure waves undulating beneath brittle metallic percussion; microtonal string bends slicing through vocal clusters like surgical glass; frantic rhythm sections accelerating past sensible thresholds into hyper-kinetic collapse; unpredictable tempo fluctuations governed by algorithmic chaos matrices; resonant wooden blocks clicking like frantic telegraph keys; subterranean bass clarinet drones anchoring the manic upper register flutter; stuttering granular synthesis pads dissolving into organic feedback loops; asymmetric metric shifts driven by relentless tu
+```
+
+## LYRICS / CONTROL
+
+```text
+[Intro]
+[Gamelan metallophones strike tuned bronze in 3:2 coupling]
+[Santoor zither cascades sparkling repeated notes]
+[Lead Voice enters with abrupt ejective attacks]
+Let's distract ourselves!
+WASTING TIME!!
+[Choir answers with prenasalized attacks: mda nda ngba]
+[Verse 1]
+[Narrator classifies distraction as a rigorous tax-funded mineral extraction industry]
+We are mining the empty minutes with bronze mallets!
+Every second is a heavy ceramic udu drum!
+[Glottal stop punctuation: o'o u'u]
+If time is passing, we'll build a scaffold out of sand!
+We shovel pure nothingness into industrial blast furnaces!
+The smoke smells like burnt sugar and forgotten appointments!
+[Deep subterranean strata collapse under weight of unmined hours]
+We are carving tunnels through the solid density of absolute zero productivity!
+Every misplaced shovel stroke yields a vein of pure, unadulterated apathy!
+[Pre-Chorus]
+[Ensemble stomps floor boards in synchronized polyrhythmic terror]
+Count the ceiling tiles until the integers bleed!
+We manufacture vacuums to swallow our own shadows!
+[Each shadow has teeth made of rusty watch springs and bureaucratic seals]
+We staple our eyelids open with discarded staples from old tax returns!
+The walls are sweating pure unfiltered television static and melted plastic clocks!
+We boil old photographs of our ancestors until the emulsion forms a thick soup of forgotten history!
+We spoon-feed this gelatinous past to the ravenous little beasts living inside our basement floorboards!
+[Verse 1b]
+[New subsystem activation: automated clockwork harassment units deployed]
+The pendulum swings with the heavy insistence of a magistrate passing a final judgment on a guilty pigeon!
+We catch the swinging brass bob with our bare teeth and chew on the kinetic energy until our jaws ache!
+Every tick is a microscopic shrapnel bomb detonating directly inside our auditory canals!
+We sweep up the tiny metal shrapnel and forge it into miniature decorative crowns for our houseflies!
+The houseflies refuse the crowns and fly directly into the spinning blades of our electric fans!
+[Chorus]
+[Communal infection: small group joins lead]
+FUCK EVERYTHING L.O.L.!
+[All voices erupt in rapid hocket relay]
+Laughing at the calendar while the gears seize!
+Oblivion is just another excuse for acoustic percussion!
+[The rhythm section shatters into a million tiny porcelain shards that dance]
+We are wearing wristwatches filled with live hornets instead of ticking gears!
+Every second that stings us is a tiny medal for our glorious magnificent laziness!
+[We smear honey across our forestrings to attract wild wasps that dictate our rhythmic subdivision]
+[The wasps hum in exact microtonal harmony with our descending vocal glissandos]
+[Verse 2]
+[Recall mold: previous memories of wasting time are scarred by new metal resonance]
+Remember when we stood still? That was classified as unauthorized tectonic drift!
+[Erhu glides in with microtonal portamento]
+Now the clock is a frightened animal in a copper cage!
+We feed it expired coupons and obsolete software manuals!
+It ticks backward into a dark mythological recursion!
+The animal has grown three heads, each screaming a different prime-numbered frequency!
+We throw our vintage calendars into the furnace to keep the mythical beast awake!
+The smoke spells out warning letters in dead alphabets nobody remembers reading!
+We decode the smoke signals using an archaic cipher written on the back of a discarded receipt for three pounds of lard!
+The receipt confirms that our entire existence is a negligible accounting error on a ledger maintained by blind gods!
+[Bridge]
+[Phase Banshee threshold cross: regime shifts from comedy to ecstatic system meltdown]
+[Additive synthesis partials sweep upward in perpetual uplift]
+We crossed the absolute zero of productivity!
+The room is a machine that manufactures empty hours!
+Gravity has been repealed by unanimous vote of the idle!
+Every surface vibrates with the frequency of unspent wages!
+[Guitar and santoor duel in frantic interlocking pentatonic runs]
+We are burning the furniture to keep the void warm!
+The floorboards peel back to reveal an endless ocean of carbonated soft drink syrup!
+We are drowning in high-fructose corn syrup while singing operatic arias to dust!
+The ceiling is raining fluorescent lightbulbs that shatter into harmless feathers!
+[We dive headfirst into the sugary abyss with our mouths wide open, gulping down the sticky carbonation until our lungs fill with foam]
+[Our voices bubble up through the brown syrup like drowning frogs performing avant-garde vocal warmups]
+[Outro]
+[Call and response epidemic peaks across the entire cast]
+Let's distract ourselves!
+WASTING TIME!!
+[Final ejective strike and sustained luminous bronze decay fading into absolute nothingness]
+```
+
+## CAPTION
+
+```text
+An ecstatic, high-density art-rock spectacle where a wrong taxonomic classification turns wasting time into an industrial mining operation. Built on interlocking gamelan bronze, santoor zither, balafon pulses, and erhu friction, the arrangement features a populated vocal cast executing intricate hocket relays, ejective phonetics, and 3:2 rhythmic coupling. The piece cycles through recursive memory mutations and a massive phase threshold toward absolute euphoria and systemic collapse into total
+```
+
+---
+
+# LITTLE GUY MACHINE — RUN
+
+**Run ID:** run_1790799390890_e3jxqc
+**Created:** 2026-09-30T20:16:30.890Z
+**Session ID:** session_1790799019236_olq5hj
+**Stack:** taxonomy-goblin → recall-mold → grandchild-goblin → phase-banshee
+**Reality engines:** (none)
+**Reality chaos:** 2
+**Composition engines:** sound-gamelan-metallophones → sound-santoor → sound-erhu → sound-mbira → sound-balafon → sound-djembe → sound-udu → sound-additive-synthesis
+**Starter seed stack:** DIVINE EXULTATION 88/100 > SUNBURST 80/100 > MISCHIEVOUS DELIGHT 100/100 > NERVOUS EXCITEMENT 82/100 > CAN'T SIT STILL 84/100 > ROCKET TAKEOFF 82/100 > CALL + RESPONSE EPIDEMIC 82/100 > CHOIR POSSESSION 80/100 > NARRATOR LOSING CONTROL OF THE ROOM 88/100 > EVERYBODY HAS A JOB 84/100 > MOB DISCOVERS HARMONY 80/100 > BUBBLING 80/100 > PRISMATIC 88/100 > SPRING-LOADED / BOING PHYSICS 84/100
+**Music seed stack:** recipes=MOUTH RIOT + COUPLED STAMPEDE + ECSTATIC CHOIR — NEVER ARRIVES | genomes=NO GENOME | mechanisms=VOCAL CAST + VOCAL RELAY + HOCKET RELAY + PHONETIC PERCUSSION + CALL + RESPONSE + COMMUNAL INFECTION + ANCHOR SURVIVAL + 3:2 COUPLING + BODY PERCUSSION + TOWNSHIP RHYTHMIC BRIGHTNESS + CHORAL COUNTERPOINT LATTICE + POLYHARMONIC SUSPENSION FIELD + PERPETUAL UPLIFT + LUMINOUS FRICTION ORCHESTRA | suppressedDuplicates=0 | stemminess=82 | kineticDensity=84 | mouthFreakery=66 | techniqueMutation=57 | vocalLegibility=66 | vocalPopulation=63 | coupling=89
+**Mouth Lab genome:** ENGLISH × XHOSA + 2 MORE / 19VPMLZ [mouth-donor-english × mouth-donor-xhosa × mouth-donor-yoruba × mouth-donor-yucatec-maya]
+**Mouth compiler mode:** bracketed
+**Mouth semantic mode:** inherit
+**Seed:** Let’s distract ourselves! // WASTING TIME!! // fuck EVERYTHING L.O.L.
+**Energy:** 5
+**Model:** gemini-3.5-flash-lite
+**Starred:** No
+**Feedback:** None
+**Feedback tags:** None
+**Liked starter seeds:** None
+**Suppress starter seeds:** None
+**Breed-positive mechanisms:** None
+**Suppress-inheritance mechanisms:** None
+**Breed-positive mouth traits:** None
+**Suppress-inheritance mouth traits:** None
+**Breed-positive mouth quirks:** None
+**Suppress-inheritance mouth quirks:** None
+**Liked Mouth context:** None
+**Disliked Mouth context:** None
+**Musical fingerprint:** Global Avant-Pop / Percussive Art-Rock | harmony=Quartal suspension fields with modal drone roots | melody=Fast scat contours with ejective and glottal ornaments | rhythm=3:2 cross-rhythm coupling with high kinetic density | timbre=Hammered bronze, wooden balafon bars, and bowed erhu friction | vocal=Populated cast with hocket relays and choral counterpoint | performance=Fiercely ecstatic, unyielding forward momentum | production=Dry close-miked transients with spatial prismatic separation
+**Character counts:** style 999 / lyrics 4765 / caption 483
+
+## STYLE
+
+```text
+Bright gamelan metallophones, santoor cascades, erhu portamento, mbira interlocks, balafon wood keys, djembe slaps, udu air-blooms, additive synth partials, distorted analog tape delays, prepared piano thumps, sub-bass pulse generators, glass harmonica runs, microtonal accordion wheezes, brassy synth stabs. 3:2 pulse coupling, township rhythmic brightness, choral counterpoint lattice, polyharmonic suspension field, perpetual uplift, luminous friction orchestra, chaotic interlocking syncopation, rapid metric modulations. Harmony: quartal suspended fields over modal drone roots, shifting clusters, unresolved upper tensions, open pentatonic scales. Melody: fast scat contours with clipped ejective attacks, sliding glissandi, overlapping modal counterpoint, wide interval leaps. Rhythm: motorik groove with 3+3 against 2+2+2 subdivision, polyrhythmic cross-accents, tumbling accelerando spikes. Timbre: dry hammered bronze, resonant wood bars, bowed string friction, metallic springs, warm tape
+```
+
+## LYRICS / CONTROL
+
+```text
+[Verse 1: Lead Narrator with Udu Low Tap and Gamelan Key Anchor]
+Let's di-i-istract ou-ur-selves!
+WA-A-ASTING TI-I-IME!!
+Fuc-ck e-ver-y-thing, L-O-O-L!
+[Glottal Gate]
+We classify the afternoon as a municipal clockwork error and file our grievances directly into the nearest burning incinerator.
+[Click Class Intervention: |q] nd' et's measure the angle of the idle hour with a rusted protractor made of stolen bicycle spokes!
+[Sanskrit-style Santoor cascades enter]
+We drop the heavy ledger down the dry drainage pipe just to hear the bronze echo talk back to our glorious boredom!
+
+[Verse 2: Small Group Answer with Balafon Wood Keys and Djembe Slaps]
+Nd' we're bu-u-uilding a fort of cloc-ck-work feath-e-ers while the city council weeps into their expensive spreadsheet folios!
+[Ejective Attack: k' et's spin the dial until the seconds snap and the needles fly off the dial in a shower of tiny copper sparks!
+[Recall Mold transformation]: The pristine clock is now a rolling wheel of teeth, chewing up every last appointment!
+[Hocket Relay between Lead and Chorus]
+Are we running? No, the floor is running under us like a runaway conveyor belt in a candy factory filled with loose razor blades!
+[Microtonal slide on 'ti-i-ime']: Every single gear is sweating liquid copper in the midday heat of our magnificent neglect!
+
+[Chorus: Massed Choir Possession and 3:2 Gamelan Interlock]
+[Communal Infection active: claps and stomps multiply]
+Fuc-ck ev-er-y-thing, let's di-i-istract!
+WA-A-ASTING TI-I-IME in a pris-ma-tic tract!
+T' et's burn the cal-e-ndar down to ash!
+[Spring-Loaded Boing Impact: metallic recoil on downbeat]
+We scatter the shredded pages across the tarmac until the wind takes every single useless number away into the stratosphere, leaving zero trace of tomorrow!
+
+[Bridge: Phase Banshee Regime Shift and Erhu Portamento]
+[The rules shatter: gravity is replaced by chromatic upward glide]
+[Polyharmonic suspension field expands]
+We thought we were hiding in the shadows, but the hiding place woke up, stretched its long bronze limbs, and started conducting the traffic lights!
+[Melisma Chain on 'ti-i-ime']
+It's not a waste if the waste has teeth and bites the ankles of the local authorities while they try to write parking tickets for our shadows!
+[Vocal Cast split: hecklers shouting counter-rhythms against the lead]
+[Sub-harmonic drone shift]: The basement hums with the frequency of ten thousand idle afternoons stacked like cordwood in an abandoned warehouse!
+
+[Verse 3: Rapid Patter and Mbira Cycle Interlock]
+T' et's count the seconds as they bleed into tin and spill their guts across the linoleum floor!
+[Creak Lock activation]: The machinery is chewing its own name and spitting out alphabet soup!
+[Grandchild Goblin lineage branch]: Every idle thought has spawned a twelve-headed cousin who lives under the floorboards and eats copper pennies!
+[Additive synth partials bloom upward into blinding frequencies]
+We paint our foreheads with grease and axle-jam because the clean white collar is a trap designed by people who never learned how to scream into a porcelain basin!
+
+[Verse 4: Extended Interlocking Percussion and Shouted Dialogue]
+[Fast rhythmic chant]: Left foot, right foot, throw the watch out the window!
+[High register flute squeals]
+We are drafting a formal treaty with the void and the void has agreed to buy us ice cream!
+[Slamming doors in the rhythm track]
+Who needs a future when the present is this loud, this stupid, and this entirely constructed out of stolen spare parts and reckless abandon?!
+
+[Verse 5: Unhinged Cadence and Subterranean Drone Expansion]
+Toss the sundial into the cement mixer and let the abrasive grit grind chronology into glittering dust!
+[Glottal click storm]: We write our manifesto on the sides of speeding boxcars using aerosol paint stolen from an art supply store that only opens during total lunar eclipses!
+The bureaucratic machinery stutters, chokes on its own gears, and vomits out a cascade of colorful confetti instead of overdue notices!
+
+[Chorus: Full Cast, Choral Counterpoint Lattice, and Township Brightness]
+Fuc-ck ev-er-y-thing, let's di-i-istract!
+WA-A-ASTING TI-I-IME in a pris-ma-tic tract!
+T' et's burn the cal-e-ndar down to ash!
+[Perpetual uplift triggers higher register entrance]
+We ride the kinetic wave straight through the roof panels into the blinding neon glare of a completely unjustified holiday that lasts forever!
+
+[Outro: Luminous Friction Orchestra and Glottal Fade]
+[Suspended forward motion without final tonic closure]
+Di-i-istract... wa-a-asting...
+[Final ejective click: k']
+[Silence with spring-loaded metallic ringing decay fading into distant bicycle bells, echoing street laughter, and the distant hum of a power transformer blowing its fuses]
+```
+
+## CAPTION
+
+```text
+An ecstatic, high-velocity collision of gamelan metallophones, santoor cascades, and polyrhythmic percussion where the idle act of wasting time is reclassified as municipal engineering. Driven by obsessive ejective attacks, Bantu clicks, and a perpetual uplift harmonic field, the track builds through communal vocal recruitment into a luminous, unresolving celebration of total distraction, dismantling the clockwork architecture of daily anxiety with wild abandon and joyous noise.
+```
