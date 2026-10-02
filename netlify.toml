@@ -1,0 +1,4 @@
+# Static reading room. In Netlify: branch `netlify`, publish directory comes from this file.
+[build]
+  publish = "site"
+  command = "echo static"

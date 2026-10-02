@@ -22,6 +22,10 @@ python3 -m little_guy --database /path/to/library.sqlite3
 
 The server binds to `127.0.0.1` by default. Keep that setting unless you intentionally want to expose the app to other machines.
 
+## Public reading room
+
+The `netlify` branch adds a static site in [`site/`](site/) — the same ledger, with no Python and no build step. In Netlify, choose that branch. [`netlify.toml`](netlify.toml) publishes `site/`.
+
 ## What it does
 
 - Imports archived runs and their seeds, engine stacks, musical fingerprints, metrics, and STYLE / LYRICS / CAPTION sections.
