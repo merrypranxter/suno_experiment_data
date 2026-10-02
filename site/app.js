@@ -11,8 +11,13 @@ const NAV = [
 const state = { q: "", shelf: "", guy: "", starred: false, energy: false, notes: false, sort: "new" };
 let ledger = null;
 
-const esc = (s) =>
-  String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&", "<": "<", ">": ">", '"': """, "'": "&#39;" })[c]);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => {
+  if (c === "&") return "&" + "amp;";
+  if (c === "<") return "&" + "lt;";
+  if (c === ">") return "&" + "gt;";
+  if (c === '"') return "&" + "quot;";
+  return "&" + "#39;";
+});
 
 function label(slug) {
   return String(slug)
