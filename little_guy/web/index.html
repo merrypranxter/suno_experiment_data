@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f6f5f2">
+    <meta name="description" content="A local composition lab for building strange, legible Suno experiments.">
+    <title>My Lil Guys for Suno</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/app.js" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <a class="brand" href="/" data-view-link="library" aria-label="My Lil Guys for Suno home">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 36 36"><path d="M3 19h4l3-9 5 17 5-22 5 27 4-13 3 1h3"/></svg>
+          </span>
+          <span class="brand-copy"><strong>my lil guys</strong><small>for suno</small></span>
+        </a>
+
+        <div class="side-section">
+          <span class="side-label">WORKSPACE</span>
+          <button class="nav-link active" data-view-link="library">
+            <span class="nav-icon">▤</span> Composition library
+          </button>
+          <button class="nav-link" data-view-link="favorites">
+            <span class="nav-icon">♡</span> Starred experiments
+          </button>
+        </div>
+
+        <div class="side-section">
+          <span class="side-label">MAKE SOMETHING</span>
+          <button class="nav-link" data-view-link="compose">
+            <span class="nav-icon">✳</span> New composition
+          </button>
+        </div>
+
+        <div class="sidebar-note">
+          <span class="note-spark">✳</span>
+          <p>Give every little guy a job. Let the weirdness do work.</p>
+        </div>
+        <div class="sidebar-footer"><span class="local-dot"></span> Private · stored on this device</div>
+      </aside>
+
+      <main class="main-area">
+        <header class="topbar">
+          <div class="breadcrumb"><span>Little Guy Machine</span><span class="crumb-slash">/</span><span id="current-section">Library</span></div>
+          <button class="button button-dark top-create" data-view-link="compose"><span>＋</span> New composition</button>
+        </header>
+        <div id="main-view" class="main-view" aria-live="polite">
+          <div class="loading-state"><span class="spinner"></span> Opening the composition room…</div>
+        </div>
+      </main>
+    </div>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>

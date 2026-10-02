@@ -9,6 +9,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, unquote, urlsplit
 
+from .composer import build_prompt
 from .store import SQLiteStore
 
 MAX_REQUEST_BYTES = 256_000
@@ -66,7 +67,16 @@ class RequestHandler(BaseHTTPRequestHandler):
         self._static(path)
 
     def do_POST(self) -> None:
-        if urlsplit(self.path).path != "/api/runs":
+        path = urlsplit(self.path).path
+        if path == "/api/preview":
+            try:
+                prompt = build_prompt(self._read_json())
+            except ValueError as exc:
+                self._json({"error": str(exc)}, 400)
+                return
+            self._json({"prompt": prompt})
+            return
+        if path != "/api/runs":
             self._json({"error": "Not found."}, 404)
             return
         try:
