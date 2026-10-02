@@ -4,10 +4,9 @@ from __future__ import annotations
 
 import json
 import logging
-import mimetypes
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from urllib.parse import parse_qs, quote, unquote, urlsplit
+from urllib.parse import parse_qs, unquote, urlsplit
 
 from .composer import build_prompt
 from .store import SQLiteStore
@@ -62,7 +61,7 @@ class RequestHandler(BaseHTTPRequestHandler):
                     self._send(
                         markdown.encode("utf-8"),
                         "text/markdown; charset=utf-8",
-                        headers={"Content-Disposition": f'attachment; filename="{quote(run_id, safe="")}.md"'},
+                        attachment=True,
                     )
                 return
             run = self.server.store.get_run(run_id)
@@ -123,33 +122,29 @@ class RequestHandler(BaseHTTPRequestHandler):
         return payload
 
     def _static(self, request_path: str) -> None:
-        relative = "index.html" if request_path in {"", "/"} else request_path.lstrip("/")
-        target = (WEB_ROOT / relative).resolve()
-        try:
-            target.relative_to(WEB_ROOT.resolve())
-        except ValueError:
+        if request_path in {"", "/", "/index.html"}:
+            asset, content_type = "index.html", "text/html; charset=utf-8"
+        elif request_path == "/app.js":
+            asset, content_type = "app.js", "text/javascript; charset=utf-8"
+        elif request_path == "/styles.css":
+            asset, content_type = "styles.css", "text/css; charset=utf-8"
+        else:
             self._json({"error": "Not found."}, 404)
             return
-        if not target.is_file():
-            self._json({"error": "Not found."}, 404)
-            return
-        content_type = mimetypes.guess_type(target.name)[0] or "application/octet-stream"
-        if content_type.startswith("text/") or content_type in {"application/javascript", "application/json"}:
-            content_type += "; charset=utf-8"
-        self._send(target.read_bytes(), content_type)
+        self._send((WEB_ROOT / asset).read_bytes(), content_type)
 
     def _json(self, value: object, status: int = 200) -> None:
         content = json.dumps(value, ensure_ascii=False).encode("utf-8")
         self._send(content, "application/json; charset=utf-8", status)
 
-    def _send(self, content: bytes, content_type: str, status: int = 200, headers: dict | None = None) -> None:
+    def _send(self, content: bytes, content_type: str, status: int = 200, attachment: bool = False) -> None:
         self.send_response(status)
         self.send_header("Content-Type", content_type)
         self.send_header("Content-Length", str(len(content)))
         self.send_header("X-Content-Type-Options", "nosniff")
         self.send_header("Cache-Control", "no-store")
-        for name, value in (headers or {}).items():
-            self.send_header(name, value)
+        if attachment:
+            self.send_header("Content-Disposition", 'attachment; filename="composition.md"')
         self.end_headers()
         self.wfile.write(content)
 

@@ -5,6 +5,7 @@ import tempfile
 import threading
 import unittest
 from pathlib import Path
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 from little_guy.archive import parse_archive
@@ -162,6 +163,9 @@ class ApiTests(unittest.TestCase):
             with urlopen(base) as response:
                 self.assertIn("text/html", response.headers["Content-Type"])
                 self.assertIn("Composition library", response.read().decode())
+            with self.assertRaises(HTTPError) as not_found:
+                urlopen(f"{base}/%2e%2e/README.md")
+            self.assertEqual(not_found.exception.code, 404)
 
             preview_request = Request(
                 f"{base}/api/preview",
@@ -193,6 +197,7 @@ class ApiTests(unittest.TestCase):
 
             with urlopen(f"{base}/api/runs/{run['id']}/export") as response:
                 self.assertIn("text/markdown", response.headers["Content-Type"])
+                self.assertEqual(response.headers["Content-Disposition"], 'attachment; filename="composition.md"')
                 self.assertIn("COMPOSITION PROMPT", response.read().decode())
 
 
