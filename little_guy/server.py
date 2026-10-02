@@ -7,7 +7,7 @@ import logging
 import mimetypes
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from urllib.parse import parse_qs, unquote, urlsplit
+from urllib.parse import parse_qs, quote, unquote, urlsplit
 
 from .composer import build_prompt
 from .store import SQLiteStore
@@ -38,15 +38,19 @@ class RequestHandler(BaseHTTPRequestHandler):
         if path == "/api/engines":
             self._json(self.server.store.engines())
             return
+        if path == "/api/sessions":
+            self._json(self.server.store.list_sessions())
+            return
         if path == "/api/runs":
             query = parse_qs(route.query)
             search = query.get("q", [""])[0]
             starred = query.get("starred", [""])[0].casefold() in {"1", "true", "yes"}
+            session_id = query.get("session_id", [""])[0]
             try:
                 limit = int(query.get("limit", ["300"])[0])
             except ValueError:
                 limit = 300
-            self._json(self.server.store.list_runs(search, starred, limit))
+            self._json(self.server.store.list_runs(search, starred, limit, session_id))
             return
         if path.startswith("/api/runs/"):
             run_id, _, action = unquote(path[len("/api/runs/") :]).partition("/")
@@ -58,7 +62,7 @@ class RequestHandler(BaseHTTPRequestHandler):
                     self._send(
                         markdown.encode("utf-8"),
                         "text/markdown; charset=utf-8",
-                        headers={"Content-Disposition": f'attachment; filename="{run_id}.md"'},
+                        headers={"Content-Disposition": f'attachment; filename="{quote(run_id, safe="")}.md"'},
                     )
                 return
             run = self.server.store.get_run(run_id)

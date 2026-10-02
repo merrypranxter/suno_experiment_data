@@ -11,7 +11,7 @@ from typing import Any
 RUN_HEADING = re.compile(r"(?m)^# LITTLE GUY MACHINE — RUN\s*$")
 FIELD = re.compile(r"(?m)^\*\*([^*\n]+):\*\*\s*(.*)$")
 SECTION = re.compile(r"(?m)^##\s+([^\n]+)\s*$")
-ARROW = re.compile(r"\s*(?:→|->)\s*")
+LIST_SEPARATOR = re.compile(r"\s*(?:→|->|,)\s*")
 
 
 def _section(block: str, name: str) -> str:
@@ -31,7 +31,7 @@ def _list(value: str) -> list[str]:
     value = value.strip()
     if not value or value.casefold() in {"(none)", "none"}:
         return []
-    return [part.strip() for part in ARROW.split(value) if part.strip()]
+    return [part.strip() for part in LIST_SEPARATOR.split(value) if part.strip()]
 
 
 def parse_archive(text: str, source_path: str = "") -> list[dict[str, Any]]:

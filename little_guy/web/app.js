@@ -1,8 +1,10 @@
 const view = document.querySelector('#main-view');
 const toastElement = document.querySelector('#toast');
-const pageNames = { library: 'Library', favorites: 'Starred', compose: 'New composition', detail: 'Run details' };
+const pageNames = { library: 'Library', sessions: 'Sessions', favorites: 'Starred', compose: 'New composition', detail: 'Run details' };
 let currentView = 'library';
 let selectedRun = null;
+let allSessions = [];
+let activeSessionId = '';
 let starredOnly = false;
 let searchText = '';
 let allEngines = [];
@@ -38,6 +40,7 @@ function setView(nextView) {
     button.classList.toggle('active', button.dataset.viewLink === nextView);
   });
   if (nextView === 'compose') renderComposer();
+  else if (nextView === 'sessions') renderSessions();
   else if (nextView === 'detail' && selectedRun) renderDetail(selectedRun);
   else renderLibrary();
 }
@@ -88,19 +91,21 @@ async function renderLibrary() {
   view.innerHTML = '<div class="loading-state"><span class="spinner"></span> Finding your little guys…</div>';
   try {
     const params = new URLSearchParams({ q: searchText, limit: '500' });
+    if (activeSessionId) params.set('session_id', activeSessionId);
     if (currentView === 'favorites' || starredOnly) params.set('starred', 'true');
     const [runs, stats] = await Promise.all([
       request(`/api/runs?${params}`),
       request('/api/stats'),
     ]);
     const isFavorites = currentView === 'favorites' || starredOnly;
+    const activeSession = allSessions.find((session) => session.id === activeSessionId);
     const cards = runs.map(renderRunCard).join('');
     view.innerHTML = `
       <section class="hero-row">
         <div>
-          <span class="eyebrow">A LITTLE COMPOSITION LAB</span>
-          <h1>Make the strange<br>make sense.</h1>
-          <p class="page-subtitle">A growing archive of musical experiments—and a place to build the next one. Give every system its own jurisdiction. Keep one small thing alive.</p>
+          <span class="eyebrow">${activeSession ? 'SESSION · ' + escapeHtml(activeSession.id) : 'A LITTLE COMPOSITION LAB'}</span>
+          <h1>${activeSession ? escapeHtml(activeSession.title) : 'Make the strange<br>make sense.'}</h1>
+          <p class="page-subtitle">${activeSession ? 'Runs in this creative thread. Keep developing the idea or start a new session.' : 'A growing archive of musical experiments—and a place to build the next one. Give every system its own jurisdiction. Keep one small thing alive.'}</p>
         </div>
         <button class="button button-dark" data-view-link="compose">＋ Compose a new run</button>
       </section>
@@ -111,7 +116,7 @@ async function renderLibrary() {
         ${statCard('SOURCE ARCHIVES', stats.archives, 'Markdown imports')}
       </section>
       <section>
-        <div class="list-heading"><h2>${isFavorites ? 'Starred experiments' : 'Recent experiments'}</h2><span>${runs.length} SHOWN · ${stats.runs} TOTAL</span></div>
+        <div class="list-heading"><h2>${activeSession ? 'Experiments in this session' : isFavorites ? 'Starred experiments' : 'Recent experiments'}</h2>${activeSession ? '<button class="button-quiet" id="clear-session-filter">Show all runs</button>' : `<span>${runs.length} SHOWN · ${stats.runs} TOTAL</span>`}</div>
         <div class="search-row">
           <label class="search-box"><input id="run-search" type="search" placeholder="Search seeds, styles, operators…" value="${escapeHtml(searchText)}" aria-label="Search experiments"></label>
           <button class="filter-button" id="toggle-starred" aria-pressed="${isFavorites}">${isFavorites ? '★ Starred' : '☷ All experiments'}</button>
@@ -121,8 +126,14 @@ async function renderLibrary() {
     const search = view.querySelector('#run-search');
     search.addEventListener('input', () => {
       searchText = search.value;
+      const cursor = search.selectionStart;
       clearTimeout(searchTimer);
-      searchTimer = setTimeout(renderLibrary, 180);
+      searchTimer = setTimeout(async () => {
+        await renderLibrary();
+        const updatedSearch = view.querySelector('#run-search');
+        updatedSearch?.focus();
+        if (updatedSearch && cursor !== null) updatedSearch.setSelectionRange(cursor, cursor);
+      }, 180);
     });
     view.querySelector('#toggle-starred').addEventListener('click', () => {
       if (currentView === 'favorites') setView('library');
@@ -130,6 +141,10 @@ async function renderLibrary() {
         starredOnly = !starredOnly;
         renderLibrary();
       }
+    });
+    view.querySelector('#clear-session-filter')?.addEventListener('click', () => {
+      activeSessionId = '';
+      renderLibrary();
     });
   } catch (error) {
     renderError(error);
@@ -152,7 +167,26 @@ function renderError(error) {
   view.querySelector('#retry')?.addEventListener('click', renderLibrary);
 }
 
+async function renderSessions() {
+  view.innerHTML = '<div class="loading-state"><span class="spinner"></span> Gathering your sessions…</div>';
+  try {
+    allSessions = await request('/api/sessions');
+    const cards = allSessions.map((session) => `
+      <article class="session-card" role="button" tabindex="0" data-open-session="${escapeHtml(session.id)}">
+        <div class="session-card-top"><span class="source-label"><span class="source-dot ${session.source === 'archive' ? '' : 'generated'}"></span>${session.source === 'archive' ? 'Imported session' : 'Composition session'}</span><span class="run-meta">${escapeHtml(formatDate(session.created))}</span></div>
+        <h3>${escapeHtml(session.title)}</h3>
+        <div class="session-card-bottom"><span class="run-meta">${escapeHtml(session.id)}</span><span class="chip chip-lime">${escapeHtml(session.run_count)} ${session.run_count === 1 ? 'run' : 'runs'}</span></div>
+      </article>`).join('');
+    view.innerHTML = `
+      <section class="hero-row"><div><span class="eyebrow">CREATIVE THREADS</span><h1>Sessions</h1><p class="page-subtitle">Follow an idea across its experiments. Keep each run connected to the creative thread that produced it.</p></div>
+        <button class="button button-dark" data-view-link="compose">＋ Start a session</button></section>
+      <section class="session-list">${cards || '<div class="empty-state"><strong>No sessions yet.</strong><p>Save a composition prompt and its session will show up here.</p><button class="button button-lime" data-view-link="compose">Create the first one</button></div>'}</section>`;
+  } catch (error) { renderError(error); }
+}
+
 function renderComposer() {
+  const sessionOptions = allSessions.map((session) =>
+    `<option value="${escapeHtml(session.id)}">${escapeHtml(session.title)} · ${escapeHtml(session.run_count)} runs</option>`).join('');
   const suggestions = allEngines.slice(0, 600).map((name) => `<option value="${escapeHtml(name)}"></option>`).join('');
   view.innerHTML = `
     <section>
@@ -170,6 +204,7 @@ function renderComposer() {
             <div class="field"><label for="session-title">Session name</label><input id="session-title" name="session_title" maxlength="120" placeholder="A name for this thread"></div>
             <div class="field"><label for="model">Model note</label><input id="model" name="model" list="model-options" placeholder="Choose later in Suno"><datalist id="model-options"><option value="gemini-3.5-flash-lite"><option value="procedural-synthesizer"></datalist></div>
           </div>
+          <div class="field"><label for="existing-session">Continue an existing session</label><select id="existing-session" name="session_id"><option value="">Start a new session</option>${sessionOptions}</select><span class="field-hint">Choose a session to attach this run to; otherwise a new session is created.</span></div>
           <div class="field">
             <label for="energy">Energy</label>
             <div class="energy-control"><input id="energy" name="energy" type="range" min="1" max="5" value="3"><span class="energy-display" id="energy-value">3 / 5</span></div>
@@ -218,6 +253,10 @@ function renderComposer() {
     </form>`;
 
   const form = view.querySelector('#composition-form');
+  if (activeSessionId) form.elements.session_id.value = activeSessionId;
+  form.elements.session_id.addEventListener('change', () => {
+    if (form.elements.session_id.value) form.elements.session_title.value = '';
+  });
   const preview = view.querySelector('#prompt-preview');
   const refresh = async () => {
     const payload = formPayload(form);
@@ -267,6 +306,7 @@ function renderComposer() {
     try {
       selectedRun = await request('/api/runs', { method: 'POST', body: JSON.stringify(formPayload(form)) });
       notify('Prompt saved to your local library.');
+      allSessions = await request('/api/sessions');
       setView('detail');
     } catch (error) {
       notify(error.message);
@@ -279,7 +319,7 @@ function renderComposer() {
 
 function dimensionField(key, label, hint) {
   return `<div class="field"><label for="dimension-${key}">${escapeHtml(label)}</label>
-    <textarea class="short" id="dimension-${key}" name="dimension-${key}" list="engine-options" placeholder="${escapeHtml(hint)}"></textarea></div>`;
+    <input id="dimension-${key}" name="dimension-${key}" list="engine-options" maxlength="500" placeholder="${escapeHtml(hint)}"></div>`;
 }
 
 function formPayload(form) {
@@ -293,6 +333,7 @@ function formPayload(form) {
     energy: Number(data.get('energy') || 3),
     model: data.get('model') || '',
     session_title: data.get('session_title') || '',
+    session_id: data.get('session_id') || '',
     dimensions,
     anchor: data.get('anchor') || '',
     operators: data.get('operators') || '',
@@ -314,7 +355,7 @@ function renderDetail(run) {
     <div class="detail-top">
       <div><span class="eyebrow">${isNew ? 'PROMPT EXPERIMENT' : 'ARCHIVED COMPOSITION'}</span>
         <h1>${escapeHtml(titleFor(run))}</h1>
-        <div class="detail-meta"><span>${escapeHtml(formatDate(run.created))}</span>${run.energy ? `<span>Energy ${escapeHtml(run.energy)}/5</span>` : ''}${run.model ? `<span>${escapeHtml(run.model)}</span>` : ''}${run.session_id ? `<span>${escapeHtml(run.session_id)}</span>` : ''}</div>
+        <div class="detail-meta"><span>${escapeHtml(formatDate(run.created))}</span>${run.energy ? `<span>Energy ${escapeHtml(run.energy)}/5</span>` : ''}${run.model ? `<span>${escapeHtml(run.model)}</span>` : ''}${run.session_id ? `<button class="button-quiet" id="open-run-session">↗ ${escapeHtml(allSessions.find((item) => item.id === run.session_id)?.title || run.session_id)}</button>` : ''}</div>
       </div>
       <div class="detail-actions"><button class="button button-light" id="detail-star">${run.starred ? '★ Starred' : '☆ Star run'}</button><a class="button button-light" href="/api/runs/${encodeURIComponent(run.id)}/export">Export .md</a></div>
     </div>
@@ -333,6 +374,10 @@ function renderDetail(run) {
     try {
       selectedRun = await request(`/api/runs/${encodeURIComponent(run.id)}`, {
         method: 'PATCH', body: JSON.stringify({ starred: !run.starred }),
+      });
+      view.querySelector('#open-run-session')?.addEventListener('click', () => {
+        activeSessionId = run.session_id;
+        setView('library');
       });
       renderDetail(selectedRun);
       notify(selectedRun.starred ? 'Added to starred experiments.' : 'Removed from starred experiments.');
@@ -371,6 +416,7 @@ document.addEventListener('click', (event) => {
   if (viewButton) {
     event.preventDefault();
     starredOnly = false;
+    if (viewButton.dataset.viewLink !== 'compose') activeSessionId = '';
     setView(viewButton.dataset.viewLink);
     return;
   }
@@ -387,6 +433,12 @@ document.addEventListener('click', (event) => {
   }
   const card = event.target.closest('[data-open-run]');
   if (card) openRun(card.dataset.openRun);
+  const sessionCard = event.target.closest('[data-open-session]');
+  if (sessionCard) {
+    activeSessionId = sessionCard.dataset.openSession;
+    starredOnly = false;
+    setView('library');
+  }
 });
 
 document.addEventListener('keydown', (event) => {
@@ -394,11 +446,16 @@ document.addEventListener('keydown', (event) => {
     event.preventDefault();
     openRun(event.target.dataset.openRun);
   }
+  if ((event.key === 'Enter' || event.key === ' ') && event.target.matches('[data-open-session]')) {
+    event.preventDefault();
+    activeSessionId = event.target.dataset.openSession;
+    setView('library');
+  }
 });
 
 async function start() {
   try {
-    allEngines = await request('/api/engines');
+    [allEngines, allSessions] = await Promise.all([request('/api/engines'), request('/api/sessions')]);
   } catch { allEngines = []; }
   setView('library');
 }

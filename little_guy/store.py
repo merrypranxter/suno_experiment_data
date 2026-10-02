@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Any
 
 from .archive import load_archives
-from .composer import DIMENSIONS, build_prompt
+from .composer import build_prompt
 
 
 def _now() -> str:
@@ -128,17 +128,46 @@ class SQLiteStore:
                 imported += cursor.rowcount
         return imported
 
-    def list_runs(self, query: str = "", starred: bool = False, limit: int = 300) -> list[dict[str, Any]]:
+    def list_runs(
+        self,
+        query: str = "",
+        starred: bool = False,
+        limit: int = 300,
+        session_id: str = "",
+    ) -> list[dict[str, Any]]:
         clauses: list[str] = []
         values: list[Any] = []
         if starred:
             clauses.append("starred = 1")
+        if session_id:
+            clauses.append("session_id = ?")
+            values.append(session_id)
         if query.strip():
             clauses.append(
-                "(title LIKE ? OR seed LIKE ? OR fingerprint LIKE ? OR source_path LIKE ? OR style LIKE ? OR lyrics LIKE ?)"
+                "("
+                + " OR ".join(
+                    f"{column} LIKE ?"
+                    for column in (
+                        "title",
+                        "seed",
+                        "fingerprint",
+                        "source_path",
+                        "style",
+                        "lyrics",
+                        "caption",
+                        "prompt",
+                        "feedback",
+                        "model",
+                        "stack",
+                        "reality_engines",
+                        "composition_engines",
+                        "form_data",
+                    )
+                )
+                + ")"
             )
             needle = f"%{query.strip()[:120]}%"
-            values.extend([needle] * 6)
+            values.extend([needle] * 14)
         where = f"WHERE {' AND '.join(clauses)}" if clauses else ""
         with self._connect() as connection:
             rows = connection.execute(
@@ -146,6 +175,19 @@ class SQLiteStore:
                 (*values, max(1, min(limit, 500))),
             ).fetchall()
         return [run for row in rows if (run := _decode(row)) is not None]
+
+    def list_sessions(self) -> list[dict[str, Any]]:
+        with self._connect() as connection:
+            rows = connection.execute(
+                """
+                SELECT s.id, s.created, s.title, s.source, COUNT(r.id) AS run_count
+                FROM sessions s LEFT JOIN runs r ON r.session_id = s.id
+                GROUP BY s.id
+                ORDER BY s.created DESC, s.id DESC
+                LIMIT 500
+                """
+            ).fetchall()
+        return [dict(row) for row in rows]
 
     def get_run(self, run_id: str) -> dict[str, Any] | None:
         with self._connect() as connection:
@@ -155,11 +197,10 @@ class SQLiteStore:
     def add_prompt_run(self, data: dict[str, Any]) -> dict[str, Any]:
         prompt = build_prompt(data)
         created = _now()
-        session_id = str(data.get("session_id") or "").strip() or _session_id()
+        session_id = str(data.get("session_id") or "").strip()
         title = str(data.get("session_title") or "New composition session").strip()[:120]
         run_id = _run_id()
         seed = str(data.get("seed", "")).strip()
-        dimensions = data.get("dimensions") if isinstance(data.get("dimensions"), dict) else {}
         composition_engines = [
             item.strip()
             for item in data.get("operators", "").splitlines()
@@ -167,10 +208,15 @@ class SQLiteStore:
         ] if isinstance(data.get("operators"), str) else []
         form_data = {key: data.get(key) for key in ("dimensions", "anchor", "operators", "cast", "arrangement", "constraints")}
         with self._connect() as connection:
-            connection.execute(
-                "INSERT OR IGNORE INTO sessions (id, created, title) VALUES (?, ?, ?)",
-                (session_id, created, title),
+            session_exists = bool(
+                session_id and connection.execute("SELECT 1 FROM sessions WHERE id = ?", (session_id,)).fetchone()
             )
+            if not session_exists:
+                session_id = _session_id()
+                connection.execute(
+                    "INSERT INTO sessions (id, created, title) VALUES (?, ?, ?)",
+                    (session_id, created, title),
+                )
             connection.execute(
                 """
                 INSERT INTO runs (
@@ -225,7 +271,7 @@ class SQLiteStore:
                 SELECT COUNT(*) AS runs,
                        COUNT(DISTINCT session_id) AS sessions,
                        SUM(CASE WHEN starred = 1 THEN 1 ELSE 0 END) AS starred,
-                       COUNT(DISTINCT source_path) AS archives
+                       COUNT(DISTINCT NULLIF(source_path, '')) AS archives
                 FROM runs
                 """
             ).fetchone()
@@ -233,7 +279,9 @@ class SQLiteStore:
 
     def engines(self) -> list[str]:
         with self._connect() as connection:
-            rows = connection.execute("SELECT stack, reality_engines, composition_engines FROM runs").fetchall()
+            rows = connection.execute(
+                "SELECT stack, reality_engines, composition_engines FROM runs WHERE source_path != ''"
+            ).fetchall()
         names: set[str] = set()
         for row in rows:
             for column in ("stack", "reality_engines", "composition_engines"):
@@ -283,7 +331,3 @@ class SQLiteStore:
         if run["prompt"]:
             output.extend(["", "## COMPOSITION PROMPT", "", "```text", run["prompt"], "```"])
         return "\n".join(output) + "\n"
-
-    @staticmethod
-    def dimension_labels() -> tuple[tuple[str, str], ...]:
-        return DIMENSIONS
