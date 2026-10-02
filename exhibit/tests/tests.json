@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Browse a structured Lil Guys specimen",
+    "sanity": true,
+    "viewport": "desktop",
+    "covers": [
+      "live GitHub archive index",
+      "GET /api/archive",
+      "GET /api/source",
+      "structured run parsing",
+      "STYLE / LYRICS / CAPTION specimen viewer"
+    ],
+    "description": "Verifies the public atlas can find a known archive file, open it, parse at least one run, and expose the three Suno-facing prompt sections.",
+    "steps": [
+      "Wait for Corpus Telemetry and the Specimen Cabinet to finish loading",
+      "Search for \"Bigfoot Mothman\" and open the matching markdown specimen",
+      "Verify a parsed run appears, then switch from STYLE to LYRICS / CONTROL and CAPTION"
+    ],
+    "expected": "The drawer shows a Little Guy run with its seed/engine information and all three prompt tabs can be opened without leaving the atlas."
+  },
+  {
+    "name": "Filter the specimen cabinet on mobile",
+    "viewport": "mobile",
+    "covers": [
+      "archive filename search",
+      "file-kind filters",
+      "responsive archive browsing"
+    ],
+    "description": "Verifies the archive remains usable on a phone-sized screen and can be narrowed by both kind and filename/date.",
+    "steps": [
+      "Open the SESSION filter",
+      "Search for \"2026-09-30\"",
+      "Inspect the visible specimen cards"
+    ],
+    "expected": "Only matching session records remain visible and their cards are readable and tappable in the mobile layout."
+  },
+  {
+    "name": "Read the experiment method explainer",
+    "viewport": "desktop",
+    "covers": [
+      "methodology explainer",
+      "process map",
+      "navigation between explainer and archive"
+    ],
+    "description": "Verifies a visitor can understand the experiment before diving into raw run data.",
+    "steps": [
+      "Open HOW THIS MUTATES from the top navigation",
+      "Read the process map through the SUNO triptych stage and the recurring laws section",
+      "Use ENTER THE ARCHIVE to return to the specimen cabinet"
+    ],
+    "expected": "The explainer visibly describes the seed-to-engines-to-constraints-to-Suno process and returns the visitor to the archive."
+  },
+  {
+    "name": "Show a useful archive failure state",
+    "viewport": "desktop",
+    "covers": ["GET /api/archive failure handling", "retry guardrail"],
+    "description": "Verifies the site reports a backend/archive failure instead of silently rendering an empty exhibit.",
+    "qa_faults": [
+      {
+        "method": "GET",
+        "path": "/api/archive",
+        "status": 502,
+        "body_json": {
+          "error": "simulated_archive_failure"
+        }
+      }
+    ],
+    "steps": [
+      "Load the site while the archive endpoint returns the simulated failure",
+      "Observe the error screen",
+      "Verify a RETRY SIGNAL control is offered"
+    ],
+    "expected": "The page visibly says \"Archive signal lost.\" and offers RETRY SIGNAL."
+  }
+]
